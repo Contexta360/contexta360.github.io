@@ -1,0 +1,33 @@
+/*!
+ * Contexta 360 Core v0.0.1-alpha.1 (https://contexta360.com/)
+ * Copyright (c) 2020 Contexta B.V.@license ISC (Last change on: 23/01/2020 20:43:12)
+ * Frontend developed by kuus <kunderikuus@gmail.com> (http:kunderikuus.net)
+ */
+
+/*!
+ * array-unique <https://github.com/jonschlinkert/array-unique>
+ *
+ * Copyright (c) 2014-2015, Jon Schlinkert.
+ * Licensed under the MIT License.
+ */
+
+/**
+ * angular-cache
+ * @version 4.6.0 - Homepage <https://github.com/jmdobry/angular-cache>
+ * @copyright (c) 2013-2016 angular-cache project authors
+ * @license MIT <https://github.com/jmdobry/angular-cache/blob/master/LICENSE>
+ * @overview angular-cache is a very useful replacement for Angular's $cacheFactory.
+ */
+
+/**
+ * @license AngularJS v1.7.9
+ * (c) 2010-2018 Google, Inc. http://angularjs.org
+ * License: MIT
+ */
+
+/*!
+ * AngularJS Material Design
+ * https://github.com/angular/material
+ * @license MIT
+ * v1.1.20
+ */
