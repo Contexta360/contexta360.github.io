@@ -1,0 +1,14 @@
+{
+  "version": "4.5.0-alpha.1",
+  "name": "Contexta 360 Dashboard",
+  "description": "Frontend application for Contexta360 legacy Dashboard",
+  "icons": {
+    "60": "favicons/firefox_app_60x60.png",
+    "128": "favicons/firefox_app_128x128.png",
+    "512": "favicons/firefox_app_512x512.png"
+  },
+  "developer": {
+    "name": "Contexta B.V.",
+    "url": "https://contexta360.com/"
+  }
+}
