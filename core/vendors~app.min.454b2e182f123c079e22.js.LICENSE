@@ -1,9 +1,17 @@
 /*!
  * Contexta 360 Core v0.0.1-alpha.11 (https://contexta360.com/)
  * Copyright (c) 2020 Contexta B.V.
- * @license ISC (Last change on: 03/02/2020 19:33:38)
+ * @license ISC (Last change on: 07/02/2020 18:31:00)
  * 
  * Frontend developed by kuus <kunderikuus@gmail.com> (http:kunderikuus.net)
+ */
+
+/**
+ * ngTable: Table + Angular JS
+ *
+ * @author Vitalii Savchuk <esvit666@gmail.com>
+ * @url https://github.com/esvit/ng-table/
+ * @license New BSD License <http://creativecommons.org/licenses/BSD/>
  */
 
 /**
