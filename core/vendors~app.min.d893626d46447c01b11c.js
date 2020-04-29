@@ -2,7 +2,7 @@
 /*!
  * Contexta 360 Core v0.0.6 (https://contexta360.com/)
  * Copyright (c) 2020 Contexta B.V.
- * @license ISC (Last change on: 28/04/2020 15:20:31)
+ * @license ISC (Last change on: 29/04/2020 10:40:16)
  * 
  * Frontend developed by kuus <kunderikuus@gmail.com> (http:kunderikuus.net)
  */
