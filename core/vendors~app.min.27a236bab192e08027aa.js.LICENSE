@@ -1,7 +1,7 @@
 /*!
- * Contexta 360 Core v0.0.6 (https://contexta360.com/)
+ * Contexta 360 Core v0.0.7 (https://contexta360.com/)
  * Copyright (c) 2020 Contexta B.V.
- * @license ISC (Last change on: 04/05/2020 12:28:47)
+ * @license ISC (Last change on: 11/05/2020 14:13:57)
  * 
  * Frontend developed by kuus <kunderikuus@gmail.com> (http:kunderikuus.net)
  */
@@ -168,5 +168,5 @@
  * AngularJS Material Design
  * https://github.com/angular/material
  * @license MIT
- * v1.1.20
+ * v1.1.22
  */
