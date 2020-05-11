@@ -1,7 +1,7 @@
 /*!
  * Contexta 360 Dashboard v4.4.0 (https://contexta360.com/)
  * Copyright (c) 2017-2020 Contexta B.V.
- * @license ISC (Last change on: 04/05/2020 12:29:49)
+ * @license ISC (Last change on: 11/05/2020 13:44:42)
  * 
  * Frontend developed by kuus <kunderikuus@gmail.com> (http:kunderikuus.net)
  */
@@ -167,7 +167,7 @@
  * AngularJS Material Design
  * https://github.com/angular/material
  * @license MIT
- * v1.1.20
+ * v1.1.22
  */
 
 /*! angularjs-slider - v7.0.0 - 
