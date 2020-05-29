@@ -1,7 +1,7 @@
 /*!
- * Contexta 360 Core v0.0.7 (https://contexta360.com/)
+ * Core v0.0.7 (https://contexta360.com/)
  * Copyright (c) 2020 Contexta B.V.
- * @license ISC (Last change on: 15/05/2020 09:28:22)
+ * @license ISC (Last change on: 29/05/2020 11:11:12)
  * 
  * Frontend developed by kuus <kunderikuus@gmail.com> (http:kunderikuus.net)
  */
@@ -170,3 +170,8 @@
  * @license MIT
  * v1.1.22
  */
+
+/*! angularjs-slider - v7.0.0 - 
+ (c) Rafal Zajac <rzajac@gmail.com>, Valentin Hervieu <valentin@hervi.eu>, Jussi Saarivirta <jusasi@gmail.com>, Angelin Sirbu <angelin.sirbu@gmail.com> - 
+ https://github.com/angular-slider/angularjs-slider - 
+ 2019-02-23 */

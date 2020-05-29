@@ -1,6 +1,6 @@
 {
   "version": "0.0.7",
-  "name": "Contexta 360 Core",
+  "name": "Core",
   "description": "Frontend application for Contexta360 Core",
   "icons": {
     "60": "favicons/firefox_app_60x60.png",

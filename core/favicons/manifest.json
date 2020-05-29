@@ -1,6 +1,6 @@
 {
-  "name": "Contexta 360 Core",
-  "short_name": "Contexta 360 Core",
+  "name": "Core",
+  "short_name": "Core",
   "description": "Frontend application for Contexta360 Core",
   "dir": "auto",
   "lang": "en-US",
