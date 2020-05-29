@@ -8,7 +8,7 @@
 
 ### [Core](https://contexta360.github.io/core/)
 
-Core application
+Core application (with Boost extension)
 
 ### [Dashboard](https://contexta360.github.io/dashboard/)
 
