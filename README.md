@@ -8,8 +8,8 @@
 
 ### [Core](https://contexta360.github.io/core/)
 
-New Core application
+Core application
 
 ### [Dashboard](https://contexta360.github.io/dashboard/)
 
-Legacy dashboard application
+Dashboard application
