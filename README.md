@@ -8,12 +8,8 @@
 
 ### [Core](https://contexta360.github.io/core/)
 
-New Core application
-
-### [Boost](https://contexta360.github.io/boost/)
-
-New Boost application, extension of Core
+Core application (with Boost extension)
 
 ### [Dashboard](https://contexta360.github.io/dashboard/)
 
-Legacy dashboard application
+Dashboard application
