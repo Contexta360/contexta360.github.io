@@ -1,6 +1,6 @@
 {
-  "name": "Contexta 360 Dashboard",
-  "short_name": "Contexta 360 Dashboard",
+  "name": "Dashboard",
+  "short_name": "Dashboard",
   "description": "Frontend application for Contexta360 legacy Dashboard",
   "dir": "auto",
   "lang": "en-US",
