@@ -1,0 +1,599 @@
+@import url("../../webfonts/Roboto_Regular/stylesheet.css");
+/*
+	@name coreindex
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:Roboto; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin-left: 20px; border: none; padding: 1px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: table; position: relative; width: 1024px; height: 768px; margin-left: auto; margin-right: auto;  }
+
+/* A link that has not been visited */
+a:link {
+    color: white;
+	text-decoration: none
+}
+/* A link that has been visited */
+a:visited {
+    color: white;
+}
+/* A link that is hovered on */
+a:hover {
+    color: #d5006e;
+}
+/* A link that is selected */
+a:active {
+    color: white;
+}
+
+
+#_bg__coreindex {
+	top: 0px;
+	left: 0px;
+	width: 1024px;
+	height: 768px;
+}
+
+#group_17 {
+	top: 0px;
+	left: 0px;
+	width: 1024.1453857422px;
+	height: 724px;
+}
+
+#top_bar {
+	top: 0px;
+	left: 1023px;
+	width: 0px;
+	height: 70px;
+	
+	-ms-transform:rotate(-90deg);
+	-o-transform:rotate(-90deg);
+	-webkit-transform:rotate(-90deg);
+	-moz-transform:rotate(-90deg);
+	transform:rotate(-90deg);
+}
+
+
+#base {
+	top: 9px !important;
+	position: absolute !important;
+	left: 76px;
+	width: 9.5367431640625E-6px;
+	height: 52.219253540039px;
+	background:url(skins/base.png);
+	background-size:cover;
+}
+
+
+#bg {
+	top: 108px;
+	left: 0px;
+	width: 1024.1453857422px;
+	height: 616px;
+}
+
+#group_18 {
+	top: 131px;
+	left: 76px;
+	width: 396px;
+	height: 426px;
+}
+#list {
+	top: 0px;
+	left: 0px;
+	width: 396px;
+	height: 426px;
+}
+#feature_1_copy {
+	top: 1px;
+	left: 208px;
+	width: 188px;
+	height: 202px;
+}
+
+#bg_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 188px;
+	height: 202px;
+}
+
+
+#fully_responsive {
+	top: 87px;
+	left: 21px;
+	width: 147px;
+	height: 60px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 24px;
+	text-align: left;
+	line-height: 24px;
+	color:#19191b;
+}
+
+#icon {
+	top: 19px;
+	left: 21px;
+	width: 51px;
+	height: 51px;
+}
+
+#oval {
+	opacity:0.10196078431373;
+	top: 0px;
+	left: 0px;
+	width: 51px;
+	height: 51px;
+}
+
+#sidebar {
+	top: 16px;
+	left: 13px;
+	width: 24.844375610352px;
+	height: 21px;
+}
+
+#path {
+	top: 0px;
+	left: 0px;
+	width: 13.285247802734px;
+	height: 20.665954589844px;
+}
+
+
+#shape {
+	top: 0px !important;
+	position: absolute !important;
+	left: 15px;
+	width: 10px;
+	height: 21px;
+	background:url(skins/shape.png);
+	background-size:cover;
+}
+
+#feature_1_copy_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 188px;
+	height: 202px;
+}
+
+#bg_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 188px;
+	height: 202px;
+}
+
+
+#fully_responsive_ek1 {
+	top: 87px;
+	left: 21px;
+	width: 147px;
+	height: 90px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 24px;
+	font-weight: normal;
+	text-align: left;
+	line-height: 24px;
+	color:#19191b;
+}
+
+#feature_1_copy_ek2 {
+	top: 224px;
+	left: 0px;
+	width: 188px;
+	height: 202px;
+}
+
+#bg_ek3 {
+	top: 0px;
+	left: 0px;
+	width: 188px;
+	height: 202px;
+}
+
+
+#fully_responsive_ek2 {
+	top: 87px;
+	left: 21px;
+	width: 147px;
+	height: 60px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 24px;
+	font-weight: normal;
+	text-align: left;
+	line-height: 24px;
+	color:#19191b;
+}
+
+#feature_1_copy_ek3 {
+	top: 224px;
+	left: 208px;
+	width: 188px;
+	height: 202px;
+}
+
+#bg_ek4 {
+	top: 0px;
+	left: 0px;
+	width: 188px;
+	height: 202px;
+}
+
+
+#fully_responsive_ek3 {
+	top: 87px;
+	left: 21px;
+	width: 147px;
+	height: 90px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 24px;
+	font-weight: normal;
+	text-align: left;
+	line-height: 24px;
+	color:#19191b;
+}
+
+
+#core_logo {
+	top: 284px !important;
+	position: absolute !important;
+	left: 512px;
+	width: 444px;
+	height: 117px;
+	background:url(skins/core_logo.png);
+	background-size:cover;
+}
+
+
+#product_help {
+	top: 408px;
+	left: 525px;
+	width: 418px;
+	height: 102px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 48px;
+	text-align: left;
+	line-height: 48px;
+	color:#ffffff;
+}
+
+
+#rectangle_1 {
+	top: 0px;
+	left: 0px;
+	width: 1024px;
+	height: 65px;
+}
+
+#icon_ek1 {
+	top: 375px;
+	left: 96px;
+	width: 50px;
+	height: 50px;
+}
+
+#oval_ek1 {
+	opacity:0.10196078431373;
+	top: 0px;
+	left: 0px;
+	width: 50px;
+	height: 50px;
+}
+
+#bookmark_2 {
+	top: 15px;
+	left: 16px;
+	width: 17.713668823242px;
+	height: 22.14208984375px;
+}
+
+#path_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 17.713668823242px;
+	height: 22.14208984375px;
+}
+
+#icon_ek2 {
+	top: 375px;
+	left: 304px;
+	width: 51px;
+	height: 51px;
+}
+
+#oval_ek2 {
+	opacity:0.10196078431373;
+	top: 0px;
+	left: 0px;
+	width: 51px;
+	height: 51px;
+}
+
+#chat_content {
+	top: 15px;
+	left: 15px;
+	width: 22px;
+	height: 21px;
+}
+
+#shape_ek1 {
+	top: 0px !important;
+	position: absolute !important;
+	left: 0px;
+	width: 22px;
+	height: 21px;
+	background:url(skins/shape_ek1.png);
+	background-size:cover;
+}
+
+#icon_ek3 {
+	top: 167px;
+	left: 96px;
+	width: 50px;
+	height: 50.957885742188px;
+}
+
+#oval_ek3 {
+	opacity:0.098039215686275;
+	top: 1px;
+	left: 0px;
+	width: 50px;
+	height: 50px;
+}
+
+#layout_11 {
+	top: 0px;
+	left: 16px;
+	width: 17.713668823242px;
+	height: 20.665954589844px;
+}
+
+#path_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 7.3806953430176px;
+	height: 11.809112548828px;
+}
+
+
+#path_ek3 {
+	top: 14px;
+	left: 0px;
+	width: 7.3806953430176px;
+	height: 6.6426391601562px;
+}
+
+
+#path_ek4 {
+	top: 14px;
+	left: 10px;
+	width: 7.3806953430176px;
+	height: 6.6426391601562px;
+}
+
+
+#path_ek5 {
+	top: 9px;
+	left: 10px;
+	width: 7.3806953430176px;
+	height: 11.809112548828px;
+}
+
+
+#contexta360_conversational_intelligence___white {
+	top: 11px !important;
+	position: absolute !important;
+	left: 24px;
+	width: 223px;
+	height: 43px;
+	background:url(skins/contexta360_conversational_intelligence___white.png);
+	background-size:cover;
+}
+
+#nav {
+	top: 54px;
+	left: 0px;
+	width: 1024px;
+	height: 53.397659301758px;
+}
+
+#bg_ek5 {
+	top: 0px;
+	left: 0px;
+	width: 1024px;
+	height: 53.397659301758px;
+}
+
+
+#business_optimisation {
+	top: 37px;
+	left: 592px;
+	width: 127px;
+	height: 16px;
+	font-family: Roboto;
+	font-size: 12px;
+	font-weight: normal;
+	text-align: center;
+	color:#ffffff;
+}
+
+
+#compliance {
+	top: 37px;
+	left: 734px;
+	width: 69px;
+	height: 16px;
+	font-family: Roboto;
+	font-size: 12px;
+	font-weight: normal;
+	text-align: center;
+	color:#ffffff;
+}
+
+
+#quality_monitoring {
+	top: 37px;
+	left: 900px;
+	width: 105px;
+	height: 16px;
+	font-family: Roboto;
+	font-size: 12px;
+	font-weight: normal;
+	text-align: center;
+	color:#ffffff;
+}
+
+
+#sales {
+	top: 37px;
+	left: 800px;
+	width: 95px;
+	height: 16px;
+	font-family: Roboto;
+	font-size: 12px;
+	font-weight: normal;
+	text-align: center;
+	color:#ffffff;
+}
+
+
+#home {
+	top: 37px;
+	left: 540px;
+	width: 37px;
+	height: 16px;
+	font-family: Roboto;
+	font-size: 12px;
+	font-weight: normal;
+	text-align: center;
+	color:#b5b5b5;
+}
+
+#group_27 {
+	top: 589px;
+	left: 76px;
+	width: 396px;
+	height: 92px;
+}
+
+#bg_ek6 {
+	top: 0px;
+	left: 0px;
+	width: 396px;
+	height: 92px;
+}
+
+
+#bootstrap_4_framewor {
+    top: 38px;
+    left: 98px;
+    width: 272px;
+    height: 41.5px;
+    overflow: hidden;
+    font-family: Roboto;
+    font-size: 26px;
+    font-weight: normal;
+    text-align: left;
+    line-height: 21px;
+    color: #19191b;
+    margin-left: 10px;
+}
+
+#icon_ek4 {
+	top: 13px;
+	left: 9px;
+	width: 66px;
+	height: 66px;
+}
+
+#oval_ek4 {
+	opacity:0.10196078431373;
+	top: 0px;
+	left: 0px;
+	width: 66px;
+	height: 66px;
+}
+
+#sidebar_ek1 {
+	top: 19px;
+	left: 18px;
+	width: 34px;
+	height: 28.065307617188px;
+}
+
+#path_ek6 {
+	top: 0px;
+	left: 0px;
+	width: 18px;
+	height: 28px;
+}
+
+
+#shape_ek2 {
+	top: 0px !important;
+	position: absolute !important;
+	left: 20px;
+	width: 14px;
+	height: 28px;
+	background:url(skins/shape_ek2.png);
+	background-size:cover;
+}
+/* Style bredcrumb list */
+ul.breadcrumb {
+    padding: -24px 0px;
+    list-style: none;
+    background-color: #ffffff00;
+    font-family: Roboto;
+    font-style: normal;
+    margin-left: -10px;
+}
+
+/* Display list items side by side */
+ul.breadcrumb li {
+    display: inline;
+    font-size: 12px;
+    font-family: Roboto;
+    font-style: normal;
+}
+
+/* Add a slash symbol (/) before/behind each list item */
+ul.breadcrumb li+li:before {
+    padding: 8px;
+    color: black;
+    content: ">\00a0";
+    font-family: Roboto;
+}
+
+/* Add a color to all links inside the list */
+ul.breadcrumb li a {
+    color: #0275d8;
+    text-decoration: none;
+    font-family: Roboto;
+}
+
+/* Add a color on mouse-over */
+ul.breadcrumb li a:hover {
+    color: #01447e;
+    text-decoration: underline;
+
+}
+/* Add your custom CSS here */
+    font-family: Roboto;
+
+
+
+
+/* Add your custom CSS here */
