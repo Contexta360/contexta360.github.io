@@ -98,71 +98,38 @@
 						</svg>
 					</div>
 					<div id="recent_posts_ek6" >
-				Description
+						Description
 					</div>
 
 					<div id="group_2_ek6"  >
 						<div id="how_to_blow_through_ek6" >
-							Create a new metric.  Once created, add a query to the metric and
-              assign it to a use case.<br/><br/>New metrics are set to 'off' by
-              default.  In order to turn 'on' you may need to switch another one
-              'off', as only 4 metrics can be switched on at a time. Once
-              switched on and assigned to a use case, the data will be available
-              in the relevant application screens.<br/><br/>A metric consists of
-              the following fields:<br/>shortName: a short name of the metric.
-              Max 15 characters. name: the name of the metric. element:
-              textfield<br/>description: a longer description of the metric.
-              element: text area source: the source of the metric, see following
-              section thresholds: the metric thresholds, see following
-              section:<br/>Metric sources<br/>First the user has to choose the
-              source type. A metric can have two types of possible
-              sources:<br/>Query Metadata field<br/>Query<br/>The user can
-              choose a query as the source of the metric. When type "query" is
-              selected, a list of queries should appear, which he can then
-              select. For instance with a filter dropdown.<br/>Endpoint:
-              tags<br/>SAVING THE METRIC<br/>When saving a metric, add the
-              following:<br/>The first step is that the query needs to be
-              converted to a field/value. This is equivalent to the Classic
-              Dashboard when dragging a queryTag to a folder.<br/> This can be
-              done with the /tags/field/link endpoint: fieldName =
-              "metrics"<br/>tagId = <queryTagId><br/>Next, you save the metric
-              with /metric/save<br/>{ ...,<br/>"fieldName" :
-              "metrics",<br/>"fieldValue" : <queryTagId>,<br/>"metaData" : {
-              "sourceType" : "queryTag", "queryTagId" : "1234"
-              }<br/>}<br/>Metadata field<br/>When the user picks a metadata
-              field as a query, a list of possible metadata fields
-              appear.<br/>Endpoint: fields<br/>Parameters: fieldType=indexed
-              (needs to be implemented on the backend)<br/>The type of the field
-              should also be displayed in the list: whether the field is a TAG
-              or a NUMBER. For example: duration (NUMBER) FIELD VALUE<br/>When a
-              TAG field is selected, a new dropdown list should appear to select
-              a field value.<br/>Endpoint: fields/getcatvalues<br/>SAVING THE
-              METRIC<br/>For fields, the saving happens in the same way as the
-              classic dashboard. You use the metric with /metric/save For
-              NUMERIC fields<br/>{ ...,<br/>"fieldName" :
-              "duration",<br/>"metaData" : { "sourceType" : "field" } }<br/>For
-              CATEGORY fields<br/>{ ...,<br/>"fieldName" : "silenceBin",
-              "fieldValue" : "high silence", "metaData" : { "sourceType" :
-              "field" } }<br/>Metric thresholds<br/>Selecting the metric
-              thresholds occurs in two steps.<br/>Choose the threshold
-              type<br/>First the user has to choose a threshold type. There are
-              three possible types:<br/>highisgood: the higher the
-              better.<br/>lowisgood: the lower the better.<br/>optimalvalue: there
-              is an optimal value for this metric.<br/>
-              HIGHISGOOD<br/><br/>When the user chooses highisgood, the next fields
-              are: Minimum green value. This becomes greenThreshold<br/>Minimum
-              amber value (lower than greenThreshold). This becomes amberThreshold
-              LOWISGOOD<br/><br/>When the user chooses lowisgood, the next fields
-              are:<br/><br/>Maximum green value. This becomes
-              greenThreshold<br/>Maximum amber value (higher than greenThreshold).
-              This becomes amberThreshold<br/>OPTIMALVALUE<br/><br/>When the user
-              chooses optimalvalue, the next fields are:<br/><br/>Optimal value. This
-              becomes optimalvalue.<br/><br/>Minimum green value (lower than
-              optimalvalue). This becomes greenThresholdDown.<br/><br/>Minimum amber
-              value (lower than greenThresholdDown). This becomes
-              amberThresholdDown. Maximum green value (higher than
-              optimalvalue). This becomes greenThresholdUp.<br/><br/>Maximum
-              amber value (higher than greenThresholdUp). This becomes amberThresholdUp<br/>
+							<p> Create a new metric.  Once created add a query to the metric and assign it to a use case.<br>
+							  <br>
+							  New metrics are set to 'off' by default.  In order to turn 'on' you may need to switch another one 'off' as only 4 metrics can be switched on at a time. Once switched on and assigned to a use case, the data will be available in the relevant application screens.<br>
+							  <br>
+							  A metric consists of the following fields:<br>
+							  shortName: a short name of the metric. Max 15 characters. name: the name of the metric. element: textfield<br>
+							  <br>
+						  </p>
+						  <p>Description: a longer description of the field. element: text area source: the source of the metric, see following section tresholds: the metric tresholds, see following section:<br>
+							  <br>
+						  </p>
+						  <p>T create a metric, first  choose the source type. A metric can have two types of possible sources:<br>
+							  Query Metadata field<br>
+							  <br>
+							  The user can choose a query as the source of the metric. When type "query" is selected, a list of queries should appear which he can then select. For instance with a filter dropdown. <br>
+							  <br>
+						  
+                          
+                          <p>When saving a metric, add the following:<br>
+                              <br>
+                          </p>
+                          <p>The first step is that the query needs to be converted to a field / value. This is equivalent to the Classic Dashboard when dragging a queryTag to a folder.<br>
+                              <br>
+                          </p>
+                            <p> This can be done with the /tags/field/link endpoint: fieldName = "metrics"<br>
+                              tagId = </p>
+                          <queryTagId><br/>Next, you save the metric with /metric/save<br/><br/>
 						</div>
 						<div id="line_4_ek6" >
 							
