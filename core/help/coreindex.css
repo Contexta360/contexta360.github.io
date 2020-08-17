@@ -1,9 +1,11 @@
-@import url("../../webfonts/Roboto_Regular/stylesheet.css");
+/* @import url("../../webfonts/Roboto_Regular/stylesheet.css"); */
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
 /*
 	@name index
 */
 /* Only edit this if you know what you are doing! */
-body { margin: 0px; padding: 0px; font-family:'Roboto Regular'; overflow-x:hidden; }
+body { margin: 0px; padding: 0px; font-family:'Roboto'; overflow-x:hidden; }
 
 /* Only edit this if you know what you are doing! */
 img { position: absolute; display: block; margin-left: 20px; border: none; padding: 1px; }
