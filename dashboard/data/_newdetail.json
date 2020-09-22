@@ -1,0 +1,7723 @@
+{
+  "documentId": "actual_live_sales_call_with_dan_lok",
+  "speakers": [
+    {
+      "name": "spk1",
+      "spkid": "spk1",
+      "metadata": {
+        "talk_speed": "4.12",
+        "word_count": "688",
+        "total_duration": "167.1",
+        "keywords": "think two hours would be sufficient enough,local client how much do,bring on more people,saying five thousand,some strategies on on how,productive,change your mind tomorrow",
+        "talk_ratio": "0.74"
+      }
+    },
+    {
+      "name": "spk2",
+      "spkid": "spk2",
+      "metadata": {
+        "talk_speed": "2.36",
+        "word_count": "137",
+        "total_duration": "58.11",
+        "keywords": "that would really help,paid or something okay,one maybe seven hundred,credit card,two years now",
+        "talk_ratio": "0.26"
+      }
+    }
+  ],
+  "segments": [
+    {
+      "speaker": "spk1",
+      "question": true,
+      "words": [
+        {
+          "text": "so ",
+          "start": 2.7,
+          "end": 2.8700001,
+          "duration": 0.17000008,
+          "metadata": {}
+        },
+        {
+          "text": "you're ",
+          "start": 2.87,
+          "end": 3.01,
+          "duration": 0.1400001,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "talking ",
+          "start": 3.01,
+          "end": 3.31,
+          "duration": 0.29999995,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "fifteen ",
+          "start": 3.31,
+          "end": 3.67,
+          "duration": 0.36000013,
+          "metadata": {}
+        },
+        {
+          "text": "hundred ",
+          "start": 3.67,
+          "end": 3.94,
+          "duration": 0.26999998,
+          "metadata": {}
+        },
+        {
+          "text": "to ",
+          "start": 3.94,
+          "end": 4,
+          "duration": 0.059999943,
+          "metadata": {}
+        },
+        {
+          "text": "two ",
+          "start": 4,
+          "end": 4.18,
+          "duration": 0.17999983,
+          "metadata": {}
+        },
+        {
+          "text": "thousand ",
+          "start": 4.18,
+          "end": 4.48,
+          "duration": 0.3000002,
+          "metadata": {}
+        },
+        {
+          "text": "a ",
+          "start": 4.48,
+          "end": 4.51,
+          "duration": 0.03000021,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "month ",
+          "start": 4.51,
+          "end": 4.9,
+          "duration": 0.38999987,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "with ",
+          "start": 5.11,
+          "end": 5.32,
+          "duration": 0.21000004,
+          "metadata": {}
+        },
+        {
+          "text": "local ",
+          "start": 5.32,
+          "end": 5.59,
+          "duration": 0.26999998,
+          "metadata": {}
+        },
+        {
+          "text": "clients ",
+          "start": 5.59,
+          "end": 5.92,
+          "duration": 0.32999992,
+          "metadata": {}
+        },
+        {
+          "text": "how ",
+          "start": 6.01,
+          "end": 6.19,
+          "duration": 0.17999983,
+          "metadata": {}
+        },
+        {
+          "text": "much ",
+          "start": 6.19,
+          "end": 6.4,
+          "duration": 0.21000004,
+          "metadata": {}
+        },
+        {
+          "text": "do ",
+          "start": 6.4,
+          "end": 6.52,
+          "duration": 0.119999886,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "you ",
+          "start": 6.52,
+          "end": 6.64,
+          "duration": 0.119999886,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "want ",
+          "start": 6.64,
+          "end": 6.94,
+          "duration": 0.3000002,
+          "metadata": {}
+        },
+        {
+          "text": "to ",
+          "start": 6.97,
+          "end": 7.04,
+          "duration": 0.07000017,
+          "metadata": {}
+        },
+        {
+          "text": "be charging ",
+          "start": 7.09,
+          "end": 7.46,
+          "duration": 0.3699999,
+          "metadata": {}
+        }
+      ],
+      "metadata": {},
+      "text": "so  you're  talking  fifteen  hundred  to  two  thousand  a  month  with  local  clients  how  much  do  you  want  to  be charging",
+      "end": 7.46,
+      "start": 2.7,
+      "lastWord": {
+        "text": "be charging ",
+        "start": 7.09,
+        "end": 7.46,
+        "duration": 0.3699999,
+        "metadata": {}
+      }
+    },
+    {
+      "speaker": "spk2",
+      "question": false,
+      "words": [
+        {
+          "text": "you ",
+          "start": 9.46,
+          "end": 9.79,
+          "duration": 0.32999992,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "know ",
+          "start": 9.79,
+          "end": 9.96,
+          "duration": 0.17000008,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "for ",
+          "start": 11.2,
+          "end": 11.65,
+          "duration": 0.4499998,
+          "metadata": {}
+        },
+        {
+          "text": "a ",
+          "start": 11.72,
+          "end": 12.190001,
+          "duration": 0.47000027,
+          "metadata": {}
+        }
+      ],
+      "metadata": {},
+      "text": "you  know  for  a",
+      "end": 12.190001,
+      "start": 9.46,
+      "lastWord": {
+        "text": "a ",
+        "start": 11.72,
+        "end": 12.190001,
+        "duration": 0.47000027,
+        "metadata": {}
+      }
+    },
+    {
+      "speaker": "spk2",
+      "question": false,
+      "words": [
+        {
+          "text": "maybe ",
+          "start": 12.34,
+          "end": 13.33,
+          "duration": 0.9899998,
+          "metadata": {}
+        }
+      ],
+      "metadata": {},
+      "text": "maybe",
+      "end": 13.33,
+      "start": 12.34,
+      "lastWord": {
+        "text": "maybe ",
+        "start": 12.34,
+        "end": 13.33,
+        "duration": 0.9899998,
+        "metadata": {}
+      }
+    },
+    {
+      "speaker": "spk2",
+      "question": false,
+      "words": [
+        {
+          "text": "yeah ",
+          "start": 13.54,
+          "end": 13.9,
+          "duration": 0.35999966,
+          "metadata": {}
+        },
+        {
+          "text": "if ",
+          "start": 13.9,
+          "end": 13.99,
+          "duration": 0.09000015,
+          "metadata": {}
+        },
+        {
+          "text": "i ",
+          "start": 13.99,
+          "end": 14.08,
+          "duration": 0.09000015,
+          "metadata": {}
+        },
+        {
+          "text": "can ",
+          "start": 14.08,
+          "end": 14.23,
+          "duration": 0.14999962,
+          "metadata": {}
+        },
+        {
+          "text": "get ",
+          "start": 14.23,
+          "end": 14.469999,
+          "duration": 0.23999977,
+          "metadata": {}
+        },
+        {
+          "text": "my ",
+          "start": 14.47,
+          "end": 14.59,
+          "duration": 0.119999886,
+          "metadata": {}
+        },
+        {
+          "text": "retainer ",
+          "start": 14.59,
+          "end": 15.1,
+          "duration": 0.5100002,
+          "metadata": {}
+        },
+        {
+          "text": "of ",
+          "start": 15.1,
+          "end": 15.22,
+          "duration": 0.119999886,
+          "metadata": {}
+        },
+        {
+          "text": "2500 dollars ",
+          "start": 15.26,
+          "end": 15.55,
+          "duration": 0.28999996,
+          "metadata": {}
+        },
+        {
+          "text": "a month ",
+          "start": 15.55,
+          "end": 15.75,
+          "duration": 0.19999981,
+          "metadata": {}
+        },
+        {
+          "text": "i ",
+          "start": 15.77,
+          "end": 15.950001,
+          "duration": 0.1800003,
+          "metadata": {}
+        },
+        {
+          "text": "on ",
+          "start": 15.95,
+          "end": 16.23,
+          "duration": 0.27999973,
+          "metadata": {}
+        },
+        {
+          "text": "that ",
+          "start": 16.54,
+          "end": 16.660002,
+          "duration": 0.12000084,
+          "metadata": {}
+        },
+        {
+          "text": "would ",
+          "start": 16.66,
+          "end": 16.78,
+          "duration": 0.12000084,
+          "metadata": {}
+        },
+        {
+          "text": "really ",
+          "start": 16.78,
+          "end": 17.03,
+          "duration": 0.25,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "help ",
+          "start": 17.02,
+          "end": 17.17,
+          "duration": 0.14999962,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "my profit margins ",
+          "start": 17.32,
+          "end": 17.64,
+          "duration": 0.3199997,
+          "metadata": {}
+        }
+      ],
+      "metadata": {},
+      "text": "yeah  if  i  can  get  my  retainer  of  2500 dollars  a month  i  on  that  would  really  help  my profit margins",
+      "end": 17.64,
+      "start": 13.54,
+      "lastWord": {
+        "text": "my profit margins ",
+        "start": 17.32,
+        "end": 17.64,
+        "duration": 0.3199997,
+        "metadata": {}
+      }
+    },
+    {
+      "speaker": "spk1",
+      "question": true,
+      "words": [
+        {
+          "text": "okay ",
+          "start": 18.7,
+          "end": 19.240002,
+          "duration": 0.5400009,
+          "metadata": {}
+        },
+        {
+          "text": "and ",
+          "start": 19.24,
+          "end": 19.39,
+          "duration": 0.14999962,
+          "metadata": {}
+        },
+        {
+          "text": "what's ",
+          "start": 19.39,
+          "end": 19.599998,
+          "duration": 0.20999908,
+          "metadata": {}
+        },
+        {
+          "text": "your ",
+          "start": 19.6,
+          "end": 19.93,
+          "duration": 0.32999992,
+          "metadata": {}
+        },
+        {
+          "text": "cost ",
+          "start": 19.93,
+          "end": 20.26,
+          "duration": 0.32999992,
+          "metadata": {}
+        },
+        {
+          "text": "of ",
+          "start": 20.26,
+          "end": 20.35,
+          "duration": 0.09000015,
+          "metadata": {}
+        },
+        {
+          "text": "delivering ",
+          "start": 20.62,
+          "end": 20.980001,
+          "duration": 0.3600006,
+          "metadata": {}
+        },
+        {
+          "text": "the ",
+          "start": 20.98,
+          "end": 21.039999,
+          "duration": 0.059999466,
+          "metadata": {}
+        },
+        {
+          "text": "service ",
+          "start": 21.04,
+          "end": 21.550001,
+          "duration": 0.5100002,
+          "metadata": {}
+        }
+      ],
+      "metadata": {},
+      "text": "okay  and  what's  your  cost  of  delivering  the  service",
+      "end": 21.550001,
+      "start": 18.7,
+      "lastWord": {
+        "text": "service ",
+        "start": 21.04,
+        "end": 21.550001,
+        "duration": 0.5100002,
+        "metadata": {}
+      }
+    },
+    {
+      "speaker": "spk2",
+      "question": false,
+      "words": [
+        {
+          "text": "see for 300 dollars for an account manager  ",
+          "start": 22.66,
+          "end": 23.23,
+          "duration": 0.5699997,
+          "metadata": {}
+        }
+      ],
+      "metadata": {},
+      "text": "see for 300 dollars for an account manager",
+      "end": 23.23,
+      "start": 22.66,
+      "lastWord": {
+        "text": "see for 300 dollars for an account manager  ",
+        "start": 22.66,
+        "end": 23.23,
+        "duration": 0.5699997,
+        "metadata": {}
+      }
+    },
+    {
+      "speaker": "spk1",
+      "question": false,
+      "words": [
+        {
+          "text": "yeah ",
+          "start": 23.34,
+          "end": 23.630001,
+          "duration": 0.29000092,
+          "metadata": {}
+        }
+      ],
+      "metadata": {},
+      "text": "yeah",
+      "end": 23.630001,
+      "start": 23.34,
+      "lastWord": {
+        "text": "yeah ",
+        "start": 23.34,
+        "end": 23.630001,
+        "duration": 0.29000092,
+        "metadata": {}
+      }
+    },
+    {
+      "speaker": "spk2",
+      "question": false,
+      "words": [
+        {
+          "text": "okay ",
+          "start": 25.94,
+          "end": 26.54,
+          "duration": 0.6000004,
+          "metadata": {}
+        }
+      ],
+      "metadata": {},
+      "text": "okay",
+      "end": 26.54,
+      "start": 25.94,
+      "lastWord": {
+        "text": "okay ",
+        "start": 25.94,
+        "end": 26.54,
+        "duration": 0.6000004,
+        "metadata": {}
+      }
+    },
+    {
+      "speaker": "spk1",
+      "question": false,
+      "words": [
+        {
+          "text": "few ",
+          "start": 27.32,
+          "end": 27.42,
+          "duration": 0.10000038,
+          "metadata": {}
+        },
+        {
+          "text": "hundred ",
+          "start": 27.43,
+          "end": 27.49,
+          "duration": 0.059999466,
+          "metadata": {}
+        },
+        {
+          "text": "dollars a month ",
+          "start": 27.49,
+          "end": 27.699999,
+          "duration": 0.20999908,
+          "metadata": {}
+        }
+      ],
+      "metadata": {},
+      "text": "few  hundred  dollars a month",
+      "end": 27.699999,
+      "start": 27.32,
+      "lastWord": {
+        "text": "dollars a month ",
+        "start": 27.49,
+        "end": 27.699999,
+        "duration": 0.20999908,
+        "metadata": {}
+      }
+    },
+    {
+      "speaker": "spk1",
+      "question": false,
+      "words": [
+        {
+          "text": "for ",
+          "start": 27.84,
+          "end": 28.130001,
+          "duration": 0.29000092,
+          "metadata": {}
+        },
+        {
+          "text": "a ",
+          "start": 28.14,
+          "end": 28.67,
+          "duration": 0.5300007,
+          "metadata": {}
+        },
+        {
+          "text": "you ",
+          "start": 28.7,
+          "end": 28.820002,
+          "duration": 0.12000084,
+          "metadata": {}
+        },
+        {
+          "text": "know ",
+          "start": 28.82,
+          "end": 29,
+          "duration": 0.1800003,
+          "metadata": {}
+        },
+        {
+          "text": "somebody ",
+          "start": 29,
+          "end": 29.39,
+          "duration": 0.3899994,
+          "metadata": {}
+        },
+        {
+          "text": "you ",
+          "start": 29.75,
+          "end": 29.84,
+          "duration": 0.09000015,
+          "metadata": {}
+        },
+        {
+          "text": "just ",
+          "start": 29.84,
+          "end": 30.08,
+          "duration": 0.23999977,
+          "metadata": {}
+        },
+        {
+          "text": "the ",
+          "start": 30.49,
+          "end": 30.65,
+          "duration": 0.15999985,
+          "metadata": {}
+        },
+        {
+          "text": "facebook ",
+          "start": 30.92,
+          "end": 31.12,
+          "duration": 0.20000076,
+          "metadata": {}
+        },
+        {
+          "text": "adds and just ",
+          "start": 31.12,
+          "end": 31.25,
+          "duration": 0.12999916,
+          "metadata": {}
+        },
+        {
+          "text": "create ",
+          "start": 31.68,
+          "end": 32.12,
+          "duration": 0.43999863,
+          "metadata": {}
+        },
+        {
+          "text": "them ",
+          "start": 32.21,
+          "end": 32.329998,
+          "duration": 0.11999893,
+          "metadata": {}
+        },
+        {
+          "text": "so ",
+          "start": 32.33,
+          "end": 32.84,
+          "duration": 0.5099983,
+          "metadata": {}
+        }
+      ],
+      "metadata": {},
+      "text": "for  a  you  know  somebody  you  just  the  facebook  adds and just  create  them  so",
+      "end": 32.84,
+      "start": 27.84,
+      "lastWord": {
+        "text": "so ",
+        "start": 32.33,
+        "end": 32.84,
+        "duration": 0.5099983,
+        "metadata": {}
+      }
+    },
+    {
+      "speaker": "spk1",
+      "question": false,
+      "words": [
+        {
+          "text": "you ",
+          "start": 32.95,
+          "end": 33.25,
+          "duration": 0.29999924,
+          "metadata": {}
+        },
+        {
+          "text": "know ",
+          "start": 33.25,
+          "end": 33.52,
+          "duration": 0.27000046,
+          "metadata": {}
+        },
+        {
+          "text": "maybe ",
+          "start": 34.06,
+          "end": 34.54,
+          "duration": 0.47999954,
+          "metadata": {}
+        }
+      ],
+      "metadata": {},
+      "text": "you  know  maybe",
+      "end": 34.54,
+      "start": 32.95,
+      "lastWord": {
+        "text": "maybe ",
+        "start": 34.06,
+        "end": 34.54,
+        "duration": 0.47999954,
+        "metadata": {}
+      }
+    },
+    {
+      "speaker": "spk1",
+      "question": false,
+      "words": [
+        {
+          "text": "you ",
+          "start": 35.35,
+          "end": 35.71,
+          "duration": 0.3600006,
+          "metadata": {}
+        },
+        {
+          "text": "know ",
+          "start": 35.72,
+          "end": 35.86,
+          "duration": 0.13999939,
+          "metadata": {}
+        }
+      ],
+      "metadata": {},
+      "text": "you  know",
+      "end": 35.86,
+      "start": 35.35,
+      "lastWord": {
+        "text": "know ",
+        "start": 35.72,
+        "end": 35.86,
+        "duration": 0.13999939,
+        "metadata": {}
+      }
+    },
+    {
+      "speaker": "spk1",
+      "question": false,
+      "words": [
+        {
+          "text": "the ",
+          "start": 37.2,
+          "end": 37.5,
+          "duration": 0.29999924,
+          "metadata": {}
+        },
+        {
+          "text": "one ",
+          "start": 37.5,
+          "end": 37.64,
+          "duration": 0.13999939,
+          "metadata": {}
+        },
+        {
+          "text": "maybe ",
+          "start": 37.64,
+          "end": 37.95,
+          "duration": 0.31000137,
+          "metadata": {}
+        },
+        {
+          "text": "seven ",
+          "start": 37.95,
+          "end": 38.25,
+          "duration": 0.29999924,
+          "metadata": {}
+        },
+        {
+          "text": "hundred ",
+          "start": 38.25,
+          "end": 38.43,
+          "duration": 0.1800003,
+          "metadata": {}
+        },
+        {
+          "text": "50 ",
+          "start": 39.73,
+          "end": 39.96,
+          "duration": 0.22999954,
+          "metadata": {}
+        },
+        {
+          "text": "percent margin ",
+          "start": 39.96,
+          "end": 40.32,
+          "duration": 0.3600006,
+          "metadata": {}
+        }
+      ],
+      "metadata": {},
+      "text": "the  one  maybe  seven  hundred  50  percent margin",
+      "end": 40.32,
+      "start": 37.2,
+      "lastWord": {
+        "text": "percent margin ",
+        "start": 39.96,
+        "end": 40.32,
+        "duration": 0.3600006,
+        "metadata": {}
+      }
+    },
+    {
+      "speaker": "spk1",
+      "question": true,
+      "words": [
+        {
+          "text": "so ",
+          "start": 41.77,
+          "end": 42.21,
+          "duration": 0.43999863,
+          "metadata": {}
+        },
+        {
+          "text": "you ",
+          "start": 42.21,
+          "end": 42.36,
+          "duration": 0.15000153,
+          "metadata": {}
+        },
+        {
+          "text": "charging ",
+          "start": 42.36,
+          "end": 42.66,
+          "duration": 0.29999924,
+          "metadata": {}
+        },
+        {
+          "text": "15 ",
+          "start": 42.67,
+          "end": 43.019997,
+          "duration": 0.34999847,
+          "metadata": {}
+        },
+        {
+          "text": "hundred ",
+          "start": 43.02,
+          "end": 43.48,
+          "duration": 0.45999908,
+          "metadata": {}
+        },
+        {
+          "text": "and ",
+          "start": 43.5,
+          "end": 43.68,
+          "duration": 0.1800003,
+          "metadata": {}
+        },
+        {
+          "text": "you ",
+          "start": 43.71,
+          "end": 43.98,
+          "duration": 0.27000046,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "on ",
+          "start": 43.98,
+          "end": 44.239998,
+          "duration": 0.25999832,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "your ",
+          "start": 44.24,
+          "end": 44.34,
+          "duration": 0.099998474,
+          "metadata": {}
+        },
+        {
+          "text": "car ",
+          "start": 44.34,
+          "end": 44.58,
+          "duration": 0.24000168,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "to ",
+          "start": 44.58,
+          "end": 44.670002,
+          "duration": 0.09000015,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "750 ",
+          "start": 44.67,
+          "end": 45.42,
+          "duration": 0.75,
+          "metadata": {}
+        },
+        {
+          "text": "and ",
+          "start": 45.51,
+          "end": 45.629997,
+          "duration": 0.11999893,
+          "metadata": {}
+        },
+        {
+          "text": "how ",
+          "start": 45.63,
+          "end": 45.72,
+          "duration": 0.09000015,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "many ",
+          "start": 45.72,
+          "end": 45.870003,
+          "duration": 0.15000153,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "calls ",
+          "start": 45.87,
+          "end": 46.14,
+          "duration": 0.27000046,
+          "metadata": {}
+        },
+        {
+          "text": "you ",
+          "start": 46.14,
+          "end": 46.23,
+          "duration": 0.09000015,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "working ",
+          "start": 46.23,
+          "end": 46.5,
+          "duration": 0.27000046,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "with ",
+          "start": 46.5,
+          "end": 46.65,
+          "duration": 0.15000153,
+          "metadata": {}
+        },
+        {
+          "text": "right ",
+          "start": 46.65,
+          "end": 46.83,
+          "duration": 0.1800003,
+          "metadata": {}
+        },
+        {
+          "text": "now ",
+          "start": 46.83,
+          "end": 47.190002,
+          "duration": 0.3600006,
+          "metadata": {}
+        }
+      ],
+      "metadata": {},
+      "text": "so  you  charging  15  hundred  and  you  on  your  car  to  750  and  how  many  calls  you  working  with  right  now",
+      "end": 47.190002,
+      "start": 41.77,
+      "lastWord": {
+        "text": "now ",
+        "start": 46.83,
+        "end": 47.190002,
+        "duration": 0.3600006,
+        "metadata": {}
+      }
+    },
+    {
+      "speaker": "spk2",
+      "question": false,
+      "words": [
+        {
+          "text": "I have got about ",
+          "start": 48.19,
+          "end": 48.64,
+          "duration": 0.45000076,
+          "metadata": {}
+        },
+        {
+          "text": "13 ",
+          "start": 49.54,
+          "end": 50.02,
+          "duration": 0.47999954,
+          "metadata": {}
+        },
+        {
+          "text": "clients ",
+          "start": 50.02,
+          "end": 50.44,
+          "duration": 0.41999817,
+          "metadata": {}
+        },
+        {
+          "text": "for ",
+          "start": 51.15,
+          "end": 51.41,
+          "duration": 0.25999832,
+          "metadata": {}
+        },
+        {
+          "text": "two ",
+          "start": 51.64,
+          "end": 51.84,
+          "duration": 0.20000076,
+          "metadata": {}
+        },
+        {
+          "text": "years ",
+          "start": 51.84,
+          "end": 52.09,
+          "duration": 0.25,
+          "metadata": {}
+        },
+        {
+          "text": "now hard to scale ",
+          "start": 52.12,
+          "end": 52.37,
+          "duration": 0.25,
+          "metadata": {}
+        }
+      ],
+      "metadata": {},
+      "text": "I have got about  13  clients  for  two  years  now hard to scale",
+      "end": 52.37,
+      "start": 48.19,
+      "lastWord": {
+        "text": "now hard to scale ",
+        "start": 52.12,
+        "end": 52.37,
+        "duration": 0.25,
+        "metadata": {}
+      }
+    },
+    {
+      "speaker": "spk1",
+      "question": true,
+      "words": [
+        {
+          "text": "okay ",
+          "start": 54.55,
+          "end": 54.85,
+          "duration": 0.29999924,
+          "metadata": {}
+        },
+        {
+          "text": "how ",
+          "start": 54.85,
+          "end": 55,
+          "duration": 0.15000153,
+          "metadata": {}
+        },
+        {
+          "text": "many ",
+          "start": 55,
+          "end": 55.21,
+          "duration": 0.20999908,
+          "metadata": {}
+        },
+        {
+          "text": "clients ",
+          "start": 55.21,
+          "end": 55.51,
+          "duration": 0.29999924,
+          "metadata": {}
+        },
+        {
+          "text": "do ",
+          "start": 55.51,
+          "end": 55.59,
+          "duration": 0.08000183,
+          "metadata": {}
+        },
+        {
+          "text": "you ",
+          "start": 55.59,
+          "end": 55.72,
+          "duration": 0.13000107,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "want ",
+          "start": 55.72,
+          "end": 56.08,
+          "duration": 0.3600006,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "to ",
+          "start": 56.08,
+          "end": 56.170002,
+          "duration": 0.09000015,
+          "metadata": {}
+        },
+        {
+          "text": "be ",
+          "start": 56.17,
+          "end": 56.289997,
+          "duration": 0.11999893,
+          "metadata": {}
+        },
+        {
+          "text": "working ",
+          "start": 56.29,
+          "end": 56.58,
+          "duration": 0.29000092,
+          "metadata": {}
+        },
+        {
+          "text": "with ",
+          "start": 56.58,
+          "end": 56.640003,
+          "duration": 0.060001373,
+          "metadata": {}
+        }
+      ],
+      "metadata": {},
+      "text": "okay  how  many  clients  do  you  want  to  be  working  with",
+      "end": 56.640003,
+      "start": 54.55,
+      "lastWord": {
+        "text": "with ",
+        "start": 56.58,
+        "end": 56.640003,
+        "duration": 0.060001373,
+        "metadata": {}
+      }
+    },
+    {
+      "speaker": "spk2",
+      "question": false,
+      "words": [
+        {
+          "text": "i ",
+          "start": 58.91,
+          "end": 59.06,
+          "duration": 0.15000153,
+          "metadata": {}
+        },
+        {
+          "text": "think ",
+          "start": 59.07,
+          "end": 59.23,
+          "duration": 0.15999985,
+          "metadata": {}
+        },
+        {
+          "text": "the ",
+          "start": 59.23,
+          "end": 59.34,
+          "duration": 0.11000061,
+          "metadata": {}
+        },
+        {
+          "text": "first ",
+          "start": 59.34,
+          "end": 59.64,
+          "duration": 0.29999924,
+          "metadata": {}
+        },
+        {
+          "text": "so ",
+          "start": 59.94,
+          "end": 60.09,
+          "duration": 0.15000153,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "i ",
+          "start": 60.08,
+          "end": 60.18,
+          "duration": 0.099998474,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "need ",
+          "start": 60.18,
+          "end": 60.36,
+          "duration": 0.1800003,
+          "metadata": {}
+        },
+        {
+          "text": "to ",
+          "start": 60.36,
+          "end": 60.420002,
+          "duration": 0.060001373,
+          "metadata": {}
+        },
+        {
+          "text": "get ",
+          "start": 60.42,
+          "end": 60.66,
+          "duration": 0.24000168,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "to is 50 ",
+          "start": 60.66,
+          "end": 60.94,
+          "duration": 0.27999878,
+          "metadata": {
+            "overtalk": "true"
+          }
+        }
+      ],
+      "metadata": {},
+      "text": "i  think  the  first  so  i  need  to  get  to is 50",
+      "end": 60.94,
+      "start": 58.91,
+      "lastWord": {
+        "text": "to is 50 ",
+        "start": 60.66,
+        "end": 60.94,
+        "duration": 0.27999878,
+        "metadata": {
+          "overtalk": "true"
+        }
+      }
+    },
+    {
+      "speaker": "spk2",
+      "question": false,
+      "words": [
+        {
+          "text": "long ",
+          "start": 62.33,
+          "end": 62.59,
+          "duration": 0.25999832,
+          "metadata": {}
+        },
+        {
+          "text": "term ",
+          "start": 62.59,
+          "end": 62.83,
+          "duration": 0.24000168,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "i ",
+          "start": 62.83,
+          "end": 62.97,
+          "duration": 0.13999939,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "like ",
+          "start": 63.04,
+          "end": 63.370003,
+          "duration": 0.33000183,
+          "metadata": {}
+        }
+      ],
+      "metadata": {},
+      "text": "long  term  i  like",
+      "end": 63.370003,
+      "start": 62.33,
+      "lastWord": {
+        "text": "like ",
+        "start": 63.04,
+        "end": 63.370003,
+        "duration": 0.33000183,
+        "metadata": {}
+      }
+    },
+    {
+      "speaker": "spk2",
+      "question": false,
+      "words": [
+        {
+          "text": "hundred ",
+          "start": 64.42,
+          "end": 64.78,
+          "duration": 0.3600006,
+          "metadata": {}
+        },
+        {
+          "text": "clients ",
+          "start": 64.78,
+          "end": 65.11,
+          "duration": 0.33000183,
+          "metadata": {}
+        },
+        {
+          "text": "be ",
+          "start": 65.11,
+          "end": 65.23,
+          "duration": 0.12000275,
+          "metadata": {}
+        },
+        {
+          "text": "even better ",
+          "start": 65.23,
+          "end": 65.53001,
+          "duration": 0.30000305,
+          "metadata": {}
+        }
+      ],
+      "metadata": {},
+      "text": "hundred  clients  be  even better",
+      "end": 65.53001,
+      "start": 64.42,
+      "lastWord": {
+        "text": "even better ",
+        "start": 65.23,
+        "end": 65.53001,
+        "duration": 0.30000305,
+        "metadata": {}
+      }
+    },
+    {
+      "speaker": "spk1",
+      "question": false,
+      "words": [
+        {
+          "text": "so ",
+          "start": 67.15,
+          "end": 67.99,
+          "duration": 0.83999634,
+          "metadata": {}
+        }
+      ],
+      "metadata": {},
+      "text": "so",
+      "end": 67.99,
+      "start": 67.15,
+      "lastWord": {
+        "text": "so ",
+        "start": 67.15,
+        "end": 67.99,
+        "duration": 0.83999634,
+        "metadata": {}
+      }
+    },
+    {
+      "speaker": "spk2",
+      "question": false,
+      "words": [
+        {
+          "text": "and ",
+          "start": 68.11,
+          "end": 68.74,
+          "duration": 0.62999725,
+          "metadata": {}
+        }
+      ],
+      "metadata": {},
+      "text": "and",
+      "end": 68.74,
+      "start": 68.11,
+      "lastWord": {
+        "text": "and ",
+        "start": 68.11,
+        "end": 68.74,
+        "duration": 0.62999725,
+        "metadata": {}
+      }
+    },
+    {
+      "speaker": "spk1",
+      "question": false,
+      "words": [
+        {
+          "text": "and ",
+          "start": 68.84,
+          "end": 69.14,
+          "duration": 0.30000305,
+          "metadata": {}
+        },
+        {
+          "text": "so ",
+          "start": 69.14,
+          "end": 69.29,
+          "duration": 0.15000153,
+          "metadata": {}
+        },
+        {
+          "text": "what ",
+          "start": 69.29,
+          "end": 69.43,
+          "duration": 0.13999939,
+          "metadata": {}
+        },
+        {
+          "text": "we ",
+          "start": 69.43,
+          "end": 69.6,
+          "duration": 0.16999817,
+          "metadata": {}
+        },
+        {
+          "text": "going ",
+          "start": 69.68,
+          "end": 69.8,
+          "duration": 0.12000275,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "to ",
+          "start": 69.8,
+          "end": 69.880005,
+          "duration": 0.08000183,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "have ",
+          "start": 69.89,
+          "end": 69.99,
+          "duration": 0.099998474,
+          "metadata": {}
+        },
+        {
+          "text": "a ",
+          "start": 69.99,
+          "end": 70.06,
+          "duration": 0.069999695,
+          "metadata": {}
+        },
+        {
+          "text": "nice ",
+          "start": 70.07,
+          "end": 70.28,
+          "duration": 0.20999908,
+          "metadata": {}
+        },
+        {
+          "text": "day ",
+          "start": 70.28,
+          "end": 70.49,
+          "duration": 0.20999908,
+          "metadata": {}
+        }
+      ],
+      "metadata": {},
+      "text": "and  so  what  we  going  to  have  a  nice  day",
+      "end": 70.49,
+      "start": 68.84,
+      "lastWord": {
+        "text": "day ",
+        "start": 70.28,
+        "end": 70.49,
+        "duration": 0.20999908,
+        "metadata": {}
+      }
+    },
+    {
+      "speaker": "spk2",
+      "question": false,
+      "words": [
+        {
+          "text": "i ",
+          "start": 72.25,
+          "end": 72.39,
+          "duration": 0.13999939,
+          "metadata": {}
+        },
+        {
+          "text": "guess ",
+          "start": 72.39,
+          "end": 72.72,
+          "duration": 0.33000183,
+          "metadata": {}
+        },
+        {
+          "text": "maybe ",
+          "start": 74.77,
+          "end": 75.369995,
+          "duration": 0.5999985,
+          "metadata": {}
+        }
+      ],
+      "metadata": {},
+      "text": "i  guess  maybe",
+      "end": 75.369995,
+      "start": 72.25,
+      "lastWord": {
+        "text": "maybe ",
+        "start": 74.77,
+        "end": 75.369995,
+        "duration": 0.5999985,
+        "metadata": {}
+      }
+    },
+    {
+      "speaker": "spk2",
+      "question": false,
+      "words": [
+        {
+          "text": "how ",
+          "start": 75.85,
+          "end": 76.15,
+          "duration": 0.30000305,
+          "metadata": {}
+        },
+        {
+          "text": "much ",
+          "start": 76.16,
+          "end": 76.51,
+          "duration": 0.34999847,
+          "metadata": {}
+        },
+        {
+          "text": "time do you think we need ",
+          "start": 76.51,
+          "end": 76.78,
+          "duration": 0.26999664,
+          "metadata": {}
+        }
+      ],
+      "metadata": {},
+      "text": "how  much  time do you think we need",
+      "end": 76.78,
+      "start": 75.85,
+      "lastWord": {
+        "text": "time do you think we need ",
+        "start": 76.51,
+        "end": 76.78,
+        "duration": 0.26999664,
+        "metadata": {}
+      }
+    },
+    {
+      "speaker": "spk2",
+      "question": false,
+      "words": [
+        {
+          "text": "yeah ",
+          "start": 79.95,
+          "end": 80.35,
+          "duration": 0.40000153,
+          "metadata": {}
+        }
+      ],
+      "metadata": {},
+      "text": "yeah",
+      "end": 80.35,
+      "start": 79.95,
+      "lastWord": {
+        "text": "yeah ",
+        "start": 79.95,
+        "end": 80.35,
+        "duration": 0.40000153,
+        "metadata": {}
+      }
+    },
+    {
+      "speaker": "spk1",
+      "question": false,
+      "words": [
+        {
+          "text": "usually ",
+          "start": 82.18,
+          "end": 82.75,
+          "duration": 0.5699997,
+          "metadata": {}
+        },
+        {
+          "text": "i ",
+          "start": 82.75,
+          "end": 82.81,
+          "duration": 0.05999756,
+          "metadata": {}
+        },
+        {
+          "text": "spoke ",
+          "start": 82.81,
+          "end": 83.049995,
+          "duration": 0.23999786,
+          "metadata": {}
+        },
+        {
+          "text": "with ",
+          "start": 83.05,
+          "end": 83.200005,
+          "duration": 0.15000153,
+          "metadata": {}
+        },
+        {
+          "text": "two ",
+          "start": 83.22,
+          "end": 83.44,
+          "duration": 0.22000122,
+          "metadata": {}
+        },
+        {
+          "text": "hours ",
+          "start": 83.47,
+          "end": 84.19,
+          "duration": 0.7200012,
+          "metadata": {}
+        },
+        {
+          "text": "because ",
+          "start": 84.22,
+          "end": 84.520004,
+          "duration": 0.30000305,
+          "metadata": {}
+        },
+        {
+          "text": "with ",
+          "start": 84.52,
+          "end": 84.7,
+          "duration": 0.1800003,
+          "metadata": {}
+        },
+        {
+          "text": "what ",
+          "start": 84.7,
+          "end": 84.88,
+          "duration": 0.1800003,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "you're ",
+          "start": 84.88,
+          "end": 85,
+          "duration": 0.12000275,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "doing ",
+          "start": 85,
+          "end": 85.24,
+          "duration": 0.23999786,
+          "metadata": {}
+        },
+        {
+          "text": "right ",
+          "start": 85.24,
+          "end": 85.479996,
+          "duration": 0.23999786,
+          "metadata": {}
+        },
+        {
+          "text": "now ",
+          "start": 85.48,
+          "end": 86.020004,
+          "duration": 0.5400009,
+          "metadata": {}
+        },
+        {
+          "text": "i ",
+          "start": 87.07,
+          "end": 87.22,
+          "duration": 0.15000153,
+          "metadata": {}
+        },
+        {
+          "text": "think ",
+          "start": 87.22,
+          "end": 87.4,
+          "duration": 0.1800003,
+          "metadata": {}
+        },
+        {
+          "text": "two ",
+          "start": 87.4,
+          "end": 87.58,
+          "duration": 0.1800003,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "hours ",
+          "start": 87.58,
+          "end": 87.94,
+          "duration": 0.3600006,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "be ",
+          "start": 87.94,
+          "end": 88.21,
+          "duration": 0.26999664,
+          "metadata": {}
+        },
+        {
+          "text": "sufficient ",
+          "start": 88.24,
+          "end": 88.81,
+          "duration": 0.5699997,
+          "metadata": {}
+        },
+        {
+          "text": "enough ",
+          "start": 88.81,
+          "end": 89.2,
+          "duration": 0.3899994,
+          "metadata": {}
+        },
+        {
+          "text": "to ",
+          "start": 89.2,
+          "end": 89.56,
+          "duration": 0.3600006,
+          "metadata": {}
+        },
+        {
+          "text": "let ",
+          "start": 89.8,
+          "end": 89.950005,
+          "duration": 0.15000153,
+          "metadata": {}
+        },
+        {
+          "text": "me ",
+          "start": 89.95,
+          "end": 90.009995,
+          "duration": 0.05999756,
+          "metadata": {}
+        },
+        {
+          "text": "look ",
+          "start": 90.01,
+          "end": 90.19,
+          "duration": 0.1800003,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "at ",
+          "start": 90.19,
+          "end": 90.28,
+          "duration": 0.08999634,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "your ",
+          "start": 90.28,
+          "end": 90.34,
+          "duration": 0.05999756,
+          "metadata": {}
+        },
+        {
+          "text": "offer ",
+          "start": 90.36,
+          "end": 90.76,
+          "duration": 0.40000153,
+          "metadata": {}
+        },
+        {
+          "text": "we ",
+          "start": 90.76,
+          "end": 90.91,
+          "duration": 0.15000153,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "package ",
+          "start": 90.91,
+          "end": 91.39001,
+          "duration": 0.48000336,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "your ",
+          "start": 91.39,
+          "end": 91.479996,
+          "duration": 0.08999634,
+          "metadata": {}
+        },
+        {
+          "text": "service ",
+          "start": 91.48,
+          "end": 91.87,
+          "duration": 0.3899994,
+          "metadata": {}
+        },
+        {
+          "text": "a ",
+          "start": 91.87,
+          "end": 91.9,
+          "duration": 0.02999878,
+          "metadata": {}
+        },
+        {
+          "text": "bit ",
+          "start": 91.9,
+          "end": 92.29,
+          "duration": 0.3899994,
+          "metadata": {}
+        },
+        {
+          "text": "and ",
+          "start": 92.81,
+          "end": 92.979996,
+          "duration": 0.16999817,
+          "metadata": {}
+        },
+        {
+          "text": "also ",
+          "start": 92.98,
+          "end": 93.23,
+          "duration": 0.25,
+          "metadata": {}
+        },
+        {
+          "text": "me ",
+          "start": 93.27,
+          "end": 93.35999,
+          "duration": 0.08999634,
+          "metadata": {}
+        },
+        {
+          "text": "give ",
+          "start": 93.37,
+          "end": 93.51,
+          "duration": 0.13999939,
+          "metadata": {}
+        },
+        {
+          "text": "you ",
+          "start": 93.52,
+          "end": 93.60999,
+          "duration": 0.08999634,
+          "metadata": {}
+        },
+        {
+          "text": "some ",
+          "start": 93.62,
+          "end": 93.76,
+          "duration": 0.13999939,
+          "metadata": {}
+        },
+        {
+          "text": "strategies ",
+          "start": 93.76,
+          "end": 94.39,
+          "duration": 0.62999725,
+          "metadata": {}
+        },
+        {
+          "text": "on ",
+          "start": 94.39,
+          "end": 94.57,
+          "duration": 0.1800003,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "on ",
+          "start": 94.57,
+          "end": 94.72,
+          "duration": 0.15000153,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "how ",
+          "start": 94.72,
+          "end": 94.840004,
+          "duration": 0.12000275,
+          "metadata": {}
+        },
+        {
+          "text": "to ",
+          "start": 94.84,
+          "end": 94.96,
+          "duration": 0.12000275,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "bump ",
+          "start": 94.96,
+          "end": 95.2,
+          "duration": 0.23999786,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "up ",
+          "start": 95.2,
+          "end": 95.32,
+          "duration": 0.12000275,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "your ",
+          "start": 95.32,
+          "end": 95.61,
+          "duration": 0.29000092,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "your ",
+          "start": 95.61,
+          "end": 95.78,
+          "duration": 0.16999817,
+          "metadata": {}
+        },
+        {
+          "text": "pricing ",
+          "start": 95.78,
+          "end": 96.22,
+          "duration": 0.44000244,
+          "metadata": {}
+        },
+        {
+          "text": "but ",
+          "start": 96.52,
+          "end": 96.7,
+          "duration": 0.1800003,
+          "metadata": {}
+        },
+        {
+          "text": "i ",
+          "start": 96.7,
+          "end": 96.82,
+          "duration": 0.12000275,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "think ",
+          "start": 96.82,
+          "end": 97.03,
+          "duration": 0.20999908,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "you ",
+          "start": 97.03,
+          "end": 97.09,
+          "duration": 0.05999756,
+          "metadata": {}
+        },
+        {
+          "text": "know ",
+          "start": 97.09,
+          "end": 97.21,
+          "duration": 0.12000275,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "charging ",
+          "start": 97.21,
+          "end": 97.54,
+          "duration": 0.33000183,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "enough ",
+          "start": 97.54,
+          "end": 97.9,
+          "duration": 0.3600006,
+          "metadata": {}
+        }
+      ],
+      "metadata": { "sentiment": 1 },
+      "text": "usually  i  spoke  with  two  hours  because  with  what  you're  doing  right  now  i  think  two  hours  be  sufficient  enough  to  let  me  look  at  your  offer  we  package  your  service  a  bit  and  also  me  give  you  some  strategies  on  on  how  to  bump  up  your  your  pricing  but  i  think  you  know  charging  enough",
+      "end": 97.9,
+      "start": 82.18,
+      "lastWord": {
+        "text": "enough ",
+        "start": 97.54,
+        "end": 97.9,
+        "duration": 0.3600006,
+        "metadata": {}
+      }
+    },
+    {
+      "speaker": "spk2",
+      "question": false,
+      "words": [
+        {
+          "text": "okay we can do two hours ",
+          "start": 100.27,
+          "end": 100.81,
+          "duration": 0.5400009,
+          "metadata": {}
+        }
+      ],
+      "metadata": {},
+      "text": "okay we can do two hours",
+      "end": 100.81,
+      "start": 100.27,
+      "lastWord": {
+        "text": "okay we can do two hours ",
+        "start": 100.27,
+        "end": 100.81,
+        "duration": 0.5400009,
+        "metadata": {}
+      }
+    },
+    {
+      "speaker": "spk1",
+      "question": false,
+      "words": [
+        {
+          "text": "because ",
+          "start": 104.29,
+          "end": 104.66,
+          "duration": 0.37000275,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "let's ",
+          "start": 104.66,
+          "end": 104.87,
+          "duration": 0.20999908,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "face ",
+          "start": 104.87,
+          "end": 105.11,
+          "duration": 0.23999786,
+          "metadata": {}
+        },
+        {
+          "text": "it ",
+          "start": 105.11,
+          "end": 105.2,
+          "duration": 0.08999634,
+          "metadata": {}
+        },
+        {
+          "text": "with ",
+          "start": 105.23,
+          "end": 105.44,
+          "duration": 0.20999908,
+          "metadata": {}
+        },
+        {
+          "text": "right ",
+          "start": 105.44,
+          "end": 105.65,
+          "duration": 0.20999908,
+          "metadata": {}
+        },
+        {
+          "text": "now ",
+          "start": 105.65,
+          "end": 106.07,
+          "duration": 0.41999817,
+          "metadata": {}
+        }
+      ],
+      "metadata": {},
+      "text": "because  let's  face  it  with  right  now",
+      "end": 106.07,
+      "start": 104.29,
+      "lastWord": {
+        "text": "now ",
+        "start": 105.65,
+        "end": 106.07,
+        "duration": 0.41999817,
+        "metadata": {}
+      }
+    },
+    {
+      "speaker": "spk1",
+      "question": false,
+      "words": [
+        {
+          "text": "with ",
+          "start": 106.71,
+          "end": 107.29,
+          "duration": 0.58000183,
+          "metadata": {}
+        },
+        {
+          "text": "a ",
+          "start": 107.47,
+          "end": 107.56,
+          "duration": 0.08999634,
+          "metadata": {}
+        },
+        {
+          "text": "50 ",
+          "start": 107.56,
+          "end": 107.799995,
+          "duration": 0.23999786,
+          "metadata": {}
+        },
+        {
+          "text": "percent ",
+          "start": 107.8,
+          "end": 108.19,
+          "duration": 0.3899994,
+          "metadata": {}
+        },
+        {
+          "text": "profit ",
+          "start": 108.22,
+          "end": 108.520004,
+          "duration": 0.30000305,
+          "metadata": {}
+        },
+        {
+          "text": "margin ",
+          "start": 108.52,
+          "end": 109.06,
+          "duration": 0.5400009,
+          "metadata": {}
+        },
+        {
+          "text": "you ",
+          "start": 109.21,
+          "end": 109.42,
+          "duration": 0.20999908,
+          "metadata": {}
+        },
+        {
+          "text": "will ",
+          "start": 109.42,
+          "end": 109.57,
+          "duration": 0.15000153,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "have ",
+          "start": 109.57,
+          "end": 109.78,
+          "duration": 0.20999908,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "a ",
+          "start": 109.78,
+          "end": 109.869995,
+          "duration": 0.08999634,
+          "metadata": {}
+        },
+        {
+          "text": "problem ",
+          "start": 109.87,
+          "end": 110.44,
+          "duration": 0.5699997,
+          "metadata": {}
+        },
+        {
+          "text": "when ",
+          "start": 110.44,
+          "end": 110.62,
+          "duration": 0.1800003,
+          "metadata": {}
+        },
+        {
+          "text": "you ",
+          "start": 110.62,
+          "end": 110.740005,
+          "duration": 0.12000275,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "grow ",
+          "start": 110.74,
+          "end": 111.22,
+          "duration": 0.48000336,
+          "metadata": {
+            "overtalk": "true"
+          }
+        }
+      ],
+      "metadata": {},
+      "text": "with  a  50  percent  profit  margin  you  will  have  a  problem  when  you  grow",
+      "end": 111.22,
+      "start": 106.71,
+      "lastWord": {
+        "text": "grow ",
+        "start": 110.74,
+        "end": 111.22,
+        "duration": 0.48000336,
+        "metadata": {
+          "overtalk": "true"
+        }
+      }
+    },
+    {
+      "speaker": "spk1",
+      "question": false,
+      "words": [
+        {
+          "text": "because ",
+          "start": 111.55,
+          "end": 112.12,
+          "duration": 0.5699997,
+          "metadata": {}
+        },
+        {
+          "text": "as ",
+          "start": 112.12,
+          "end": 112.3,
+          "duration": 0.1800003,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "you ",
+          "start": 112.3,
+          "end": 112.39,
+          "duration": 0.08999634,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "bring ",
+          "start": 112.39,
+          "end": 112.6,
+          "duration": 0.20999908,
+          "metadata": {}
+        },
+        {
+          "text": "on ",
+          "start": 112.6,
+          "end": 112.689995,
+          "duration": 0.08999634,
+          "metadata": {}
+        },
+        {
+          "text": "more ",
+          "start": 112.69,
+          "end": 112.840004,
+          "duration": 0.15000153,
+          "metadata": {}
+        },
+        {
+          "text": "people ",
+          "start": 112.85,
+          "end": 113.229996,
+          "duration": 0.37999725,
+          "metadata": {}
+        },
+        {
+          "text": "your ",
+          "start": 113.23,
+          "end": 113.8,
+          "duration": 0.5699997,
+          "metadata": {}
+        }
+      ],
+      "metadata": {},
+      "text": "because  as  you  bring  on  more  people  your",
+      "end": 113.8,
+      "start": 111.55,
+      "lastWord": {
+        "text": "your ",
+        "start": 113.23,
+        "end": 113.8,
+        "duration": 0.5699997,
+        "metadata": {}
+      }
+    },
+    {
+      "speaker": "spk1",
+      "question": true,
+      "words": [
+        {
+          "text": "you ",
+          "start": 114.01,
+          "end": 114.28,
+          "duration": 0.26999664,
+          "metadata": {}
+        },
+        {
+          "text": "more ",
+          "start": 114.28,
+          "end": 114.549995,
+          "duration": 0.26999664,
+          "metadata": {}
+        },
+        {
+          "text": "the ",
+          "start": 114.73,
+          "end": 114.82,
+          "duration": 0.08999634,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "margin ",
+          "start": 114.82,
+          "end": 115.15,
+          "duration": 0.33000183,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "would ",
+          "start": 115.15,
+          "end": 115.270004,
+          "duration": 0.12000275,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "shrink ",
+          "start": 115.27,
+          "end": 115.659996,
+          "duration": 0.3899994,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "and ",
+          "start": 115.84,
+          "end": 116.2,
+          "duration": 0.3600006,
+          "metadata": {}
+        },
+        {
+          "text": "quite ",
+          "start": 116.23,
+          "end": 116.47,
+          "duration": 0.23999786,
+          "metadata": {}
+        },
+        {
+          "text": "frankly ",
+          "start": 116.47,
+          "end": 116.83,
+          "duration": 0.3600006,
+          "metadata": {}
+        },
+        {
+          "text": "there's ",
+          "start": 116.83,
+          "end": 116.98,
+          "duration": 0.15000153,
+          "metadata": {}
+        },
+        {
+          "text": "no ",
+          "start": 116.98,
+          "end": 117.130005,
+          "duration": 0.15000153,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "no ",
+          "start": 117.13,
+          "end": 117.329994,
+          "duration": 0.19999695,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "no ",
+          "start": 117.54,
+          "end": 117.69,
+          "duration": 0.15000153,
+          "metadata": {}
+        },
+        {
+          "text": "wondering ",
+          "start": 117.7,
+          "end": 118.03,
+          "duration": 0.33000183,
+          "metadata": {}
+        },
+        {
+          "text": "because ",
+          "start": 119.34,
+          "end": 120.06,
+          "duration": 0.7200012,
+          "metadata": {}
+        },
+        {
+          "text": "you ",
+          "start": 120.11,
+          "end": 120.23,
+          "duration": 0.12000275,
+          "metadata": {}
+        },
+        {
+          "text": "can ",
+          "start": 120.37,
+          "end": 120.490005,
+          "duration": 0.12000275,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "ask ",
+          "start": 120.49,
+          "end": 120.659996,
+          "duration": 0.16999817,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "for ",
+          "start": 120.66,
+          "end": 120.82001,
+          "duration": 0.16000366,
+          "metadata": {}
+        },
+        {
+          "text": "to ",
+          "start": 120.82,
+          "end": 120.88,
+          "duration": 0.05999756,
+          "metadata": {}
+        },
+        {
+          "text": "spend money ",
+          "start": 120.88,
+          "end": 121.119995,
+          "duration": 0.23999786,
+          "metadata": {}
+        },
+        {
+          "text": "on ",
+          "start": 121.13,
+          "end": 121.24,
+          "duration": 0.11000061,
+          "metadata": {}
+        },
+        {
+          "text": "your ",
+          "start": 121.24,
+          "end": 121.329994,
+          "duration": 0.08999634,
+          "metadata": {}
+        },
+        {
+          "text": "marketing true ",
+          "start": 121.33,
+          "end": 121.78,
+          "duration": 0.44999695,
+          "metadata": {}
+        }
+      ],
+      "metadata": {},
+      "text": "you  more  the  margin  would  shrink  and  quite  frankly  there's  no  no  no  wondering  because  you  can  ask  for  to  spend money  on  your  marketing true",
+      "end": 121.78,
+      "start": 114.01,
+      "lastWord": {
+        "text": "marketing true ",
+        "start": 121.33,
+        "end": 121.78,
+        "duration": 0.44999695,
+        "metadata": {}
+      }
+    },
+    {
+      "speaker": "spk2",
+      "question": false,
+      "words": [
+        {
+          "text": "yeah ",
+          "start": 124.05,
+          "end": 124.630005,
+          "duration": 0.58000183,
+          "metadata": {}
+        }
+      ],
+      "metadata": {},
+      "text": "yeah",
+      "end": 124.630005,
+      "start": 124.05,
+      "lastWord": {
+        "text": "yeah ",
+        "start": 124.05,
+        "end": 124.630005,
+        "duration": 0.58000183,
+        "metadata": {}
+      }
+    },
+    {
+      "speaker": "spk1",
+      "question": false,
+      "words": [
+        {
+          "text": "so ",
+          "start": 125.8,
+          "end": 126.16,
+          "duration": 0.3600006,
+          "metadata": {}
+        },
+        {
+          "text": "for ",
+          "start": 126.19,
+          "end": 126.55,
+          "duration": 0.3600006,
+          "metadata": {}
+        },
+        {
+          "text": "for ",
+          "start": 126.58,
+          "end": 126.76,
+          "duration": 0.1800003,
+          "metadata": {}
+        },
+        {
+          "text": "two ",
+          "start": 126.76,
+          "end": 126.94,
+          "duration": 0.1800003,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "hours ",
+          "start": 126.94,
+          "end": 127.54,
+          "duration": 0.5999985,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "i ",
+          "start": 127.57,
+          "end": 127.69,
+          "duration": 0.12000275,
+          "metadata": {}
+        },
+        {
+          "text": "charge ",
+          "start": 127.69,
+          "end": 128.02,
+          "duration": 0.33000183,
+          "metadata": {}
+        },
+        {
+          "text": "ten ",
+          "start": 128.02,
+          "end": 128.26001,
+          "duration": 0.2400055,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "K ",
+          "start": 128.26,
+          "end": 128.65,
+          "duration": 0.3899994,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "How do you feel ",
+          "start": 129.06,
+          "end": 129.13,
+          "duration": 0.070007324,
+          "metadata": {}
+        },
+        {
+          "text": "about ",
+          "start": 129.13,
+          "end": 129.46,
+          "duration": 0.33000183,
+          "metadata": {}
+        },
+        {
+          "text": "that ",
+          "start": 129.46,
+          "end": 129.79001,
+          "duration": 0.33000183,
+          "metadata": {}
+        }
+      ],
+      "metadata": {},
+      "text": "so  for  for  two  hours  i  charge  ten  K  How do you feel  about  that",
+      "end": 129.79001,
+      "start": 125.8,
+      "lastWord": {
+        "text": "that ",
+        "start": 129.46,
+        "end": 129.79001,
+        "duration": 0.33000183,
+        "metadata": {}
+      }
+    },
+    {
+      "speaker": "spk1",
+      "question": false,
+      "words": [
+        {
+          "text": "okay ",
+          "start": 131.46,
+          "end": 131.55,
+          "duration": 0.08999634,
+          "metadata": {}
+        }
+      ],
+      "metadata": {},
+      "text": "okay",
+      "end": 131.55,
+      "start": 131.46,
+      "lastWord": {
+        "text": "okay ",
+        "start": 131.46,
+        "end": 131.55,
+        "duration": 0.08999634,
+        "metadata": {}
+      }
+    },
+    {
+      "speaker": "spk2",
+      "question": false,
+      "words": [
+        {
+          "text": "okay ",
+          "start": 131.64,
+          "end": 132,
+          "duration": 0.3600006,
+          "metadata": {}
+        }
+      ],
+      "metadata": {},
+      "text": "okay",
+      "end": 132,
+      "start": 131.64,
+      "lastWord": {
+        "text": "okay ",
+        "start": 131.64,
+        "end": 132,
+        "duration": 0.3600006,
+        "metadata": {}
+      }
+    },
+    {
+      "speaker": "spk1",
+      "question": false,
+      "words": [
+        {
+          "text": "was ",
+          "start": 132.53,
+          "end": 132.62,
+          "duration": 0.08999634,
+          "metadata": {}
+        },
+        {
+          "text": "5000 ",
+          "start": 132.62,
+          "end": 132.68,
+          "duration": 0.05999756,
+          "metadata": {}
+        },
+        {
+          "text": "an ",
+          "start": 132.68,
+          "end": 132.79999,
+          "duration": 0.11999512,
+          "metadata": {}
+        },
+        {
+          "text": "hour ",
+          "start": 132.8,
+          "end": 133.16,
+          "duration": 0.3600006,
+          "metadata": {}
+        }
+      ],
+      "metadata": {},
+      "text": "was  5000  an  hour",
+      "end": 133.16,
+      "start": 132.53,
+      "lastWord": {
+        "text": "hour ",
+        "start": 132.8,
+        "end": 133.16,
+        "duration": 0.3600006,
+        "metadata": {}
+      }
+    },
+    {
+      "speaker": "spk1",
+      "question": false,
+      "words": [
+        {
+          "text": "an ",
+          "start": 133.42,
+          "end": 133.63,
+          "duration": 0.21000671,
+          "metadata": {}
+        },
+        {
+          "text": "awful ",
+          "start": 133.66,
+          "end": 133.93001,
+          "duration": 0.27000427,
+          "metadata": {}
+        },
+        {
+          "text": "lot ",
+          "start": 133.93,
+          "end": 134.07999,
+          "duration": 0.1499939,
+          "metadata": {}
+        },
+        {
+          "text": "of ",
+          "start": 134.08,
+          "end": 134.14,
+          "duration": 0.05999756,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "money ",
+          "start": 134.14,
+          "end": 134.35,
+          "duration": 0.21000671,
+          "metadata": {
+            "overtalk": "true"
+          }
+        }
+      ],
+      "metadata": { "sentiment": -1 },
+      "text": "an  awful  lot  of  money",
+      "end": 134.35,
+      "start": 133.42,
+      "lastWord": {
+        "text": "money ",
+        "start": 134.14,
+        "end": 134.35,
+        "duration": 0.21000671,
+        "metadata": {
+          "overtalk": "true"
+        }
+      }
+    },
+    {
+      "speaker": "spk2",
+      "question": false,
+      "words": [
+        {
+          "text": "yeah ",
+          "start": 136.89,
+          "end": 137.36,
+          "duration": 0.47000122,
+          "metadata": {}
+        }
+      ],
+      "metadata": {},
+      "text": "yeah",
+      "end": 137.36,
+      "start": 136.89,
+      "lastWord": {
+        "text": "yeah ",
+        "start": 136.89,
+        "end": 137.36,
+        "duration": 0.47000122,
+        "metadata": {}
+      }
+    },
+    {
+      "speaker": "spk2",
+      "question": false,
+      "words": [
+        {
+          "text": "an ",
+          "start": 140.12,
+          "end": 140.45999,
+          "duration": 0.33999634,
+          "metadata": {}
+        },
+        {
+          "text": "hour ",
+          "start": 141.13,
+          "end": 141.58,
+          "duration": 0.44999695,
+          "metadata": {}
+        }
+      ],
+      "metadata": {},
+      "text": "an  hour",
+      "end": 141.58,
+      "start": 140.12,
+      "lastWord": {
+        "text": "hour ",
+        "start": 141.13,
+        "end": 141.58,
+        "duration": 0.44999695,
+        "metadata": {}
+      }
+    },
+    {
+      "speaker": "spk1",
+      "question": false,
+      "words": [
+        {
+          "text": "so ",
+          "start": 145.93,
+          "end": 146.29,
+          "duration": 0.3600006,
+          "metadata": {}
+        }
+      ],
+      "metadata": {},
+      "text": "so",
+      "end": 146.29,
+      "start": 145.93,
+      "lastWord": {
+        "text": "so ",
+        "start": 145.93,
+        "end": 146.29,
+        "duration": 0.3600006,
+        "metadata": {}
+      }
+    },
+    {
+      "speaker": "spk2",
+      "question": false,
+      "words": [
+        {
+          "text": "okay ",
+          "start": 147.87,
+          "end": 148.18,
+          "duration": 0.30999756,
+          "metadata": {}
+        }
+      ],
+      "metadata": {},
+      "text": "okay",
+      "end": 148.18,
+      "start": 147.87,
+      "lastWord": {
+        "text": "okay ",
+        "start": 147.87,
+        "end": 148.18,
+        "duration": 0.30999756,
+        "metadata": {}
+      }
+    },
+    {
+      "speaker": "spk1",
+      "question": false,
+      "words": [
+        {
+          "text": "a ",
+          "start": 149.17,
+          "end": 149.41,
+          "duration": 0.2400055,
+          "metadata": {}
+        },
+        {
+          "text": "lot ",
+          "start": 149.42,
+          "end": 149.78,
+          "duration": 0.3600006,
+          "metadata": {}
+        },
+        {
+          "text": "of ",
+          "start": 149.78,
+          "end": 149.84,
+          "duration": 0.05999756,
+          "metadata": {}
+        },
+        {
+          "text": "money ",
+          "start": 149.84,
+          "end": 150.11,
+          "duration": 0.27000427,
+          "metadata": {}
+        },
+        {
+          "text": "let ",
+          "start": 150.23,
+          "end": 150.40999,
+          "duration": 0.17999268,
+          "metadata": {}
+        },
+        {
+          "text": "me ",
+          "start": 150.41,
+          "end": 150.47,
+          "duration": 0.05999756,
+          "metadata": {}
+        },
+        {
+          "text": "ask ",
+          "start": 150.47,
+          "end": 150.68001,
+          "duration": 0.21000671,
+          "metadata": {}
+        },
+        {
+          "text": "you ",
+          "start": 150.68,
+          "end": 150.76999,
+          "duration": 0.08999634,
+          "metadata": {}
+        },
+        {
+          "text": "this ",
+          "start": 150.77,
+          "end": 151.25,
+          "duration": 0.47999573,
+          "metadata": {}
+        }
+      ],
+      "metadata": {},
+      "text": "a  lot  of  money  let  me  ask  you  this",
+      "end": 151.25,
+      "start": 149.17,
+      "lastWord": {
+        "text": "this ",
+        "start": 150.77,
+        "end": 151.25,
+        "duration": 0.47999573,
+        "metadata": {}
+      }
+    },
+    {
+      "speaker": "spk1",
+      "question": true,
+      "words": [
+        {
+          "text": "you're ",
+          "start": 151.42,
+          "end": 151.78,
+          "duration": 0.3600006,
+          "metadata": {}
+        },
+        {
+          "text": "coming ",
+          "start": 151.78,
+          "end": 152.11,
+          "duration": 0.33000183,
+          "metadata": {}
+        },
+        {
+          "text": "to ",
+          "start": 152.11,
+          "end": 152.23,
+          "duration": 0.11999512,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "me ",
+          "start": 152.23,
+          "end": 152.56,
+          "duration": 0.33000183,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "because ",
+          "start": 152.56,
+          "end": 152.89,
+          "duration": 0.33000183,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "you ",
+          "start": 152.89,
+          "end": 153.01,
+          "duration": 0.11999512,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "want ",
+          "start": 153.01,
+          "end": 153.37,
+          "duration": 0.3600006,
+          "metadata": {}
+        },
+        {
+          "text": "to ",
+          "start": 153.37,
+          "end": 153.76,
+          "duration": 0.3899994,
+          "metadata": {}
+        },
+        {
+          "text": "charge ",
+          "start": 154.09,
+          "end": 154.51,
+          "duration": 0.41999817,
+          "metadata": {}
+        },
+        {
+          "text": "more ",
+          "start": 154.51,
+          "end": 154.72,
+          "duration": 0.21000671,
+          "metadata": {}
+        },
+        {
+          "text": "money ",
+          "start": 154.72,
+          "end": 155.05,
+          "duration": 0.33000183,
+          "metadata": {}
+        },
+        {
+          "text": "in ",
+          "start": 155.05,
+          "end": 155.11,
+          "duration": 0.05999756,
+          "metadata": {}
+        },
+        {
+          "text": "charge ",
+          "start": 155.12,
+          "end": 155.68,
+          "duration": 0.55999756,
+          "metadata": {}
+        },
+        {
+          "text": "what ",
+          "start": 155.98,
+          "end": 156.22,
+          "duration": 0.2400055,
+          "metadata": {}
+        },
+        {
+          "text": "you ",
+          "start": 156.22,
+          "end": 156.31,
+          "duration": 0.08999634,
+          "metadata": {}
+        },
+        {
+          "text": "believe ",
+          "start": 156.31,
+          "end": 156.79,
+          "duration": 0.47999573,
+          "metadata": {}
+        },
+        {
+          "text": "your ",
+          "start": 156.79,
+          "end": 156.96999,
+          "duration": 0.17999268,
+          "metadata": {}
+        },
+        {
+          "text": "worth ",
+          "start": 156.97,
+          "end": 157.3,
+          "duration": 0.33000183,
+          "metadata": {}
+        },
+        {
+          "text": "and ",
+          "start": 157.3,
+          "end": 157.45,
+          "duration": 0.1499939,
+          "metadata": {}
+        },
+        {
+          "text": "have ",
+          "start": 157.51,
+          "end": 158.11,
+          "duration": 0.6000061,
+          "metadata": {}
+        },
+        {
+          "text": "just ",
+          "start": 158.41,
+          "end": 158.62001,
+          "duration": 0.21000671,
+          "metadata": {}
+        },
+        {
+          "text": "make ",
+          "start": 158.62,
+          "end": 158.76999,
+          "duration": 0.1499939,
+          "metadata": {}
+        },
+        {
+          "text": "more ",
+          "start": 158.77,
+          "end": 158.95,
+          "duration": 0.17999268,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "proffit correct ",
+          "start": 158.95,
+          "end": 159.37,
+          "duration": 0.41999817,
+          "metadata": {
+            "overtalk": "true"
+          }
+        }
+      ],
+      "metadata": {},
+      "text": "you're  coming  to  me  because  you  want  to  charge  more  money  in  charge  what  you  believe  your  worth  and  have  just  make  more  proffit correct",
+      "end": 159.37,
+      "start": 151.42,
+      "lastWord": {
+        "text": "proffit correct ",
+        "start": 158.95,
+        "end": 159.37,
+        "duration": 0.41999817,
+        "metadata": {
+          "overtalk": "true"
+        }
+      }
+    },
+    {
+      "speaker": "spk2",
+      "question": false,
+      "words": [
+        {
+          "text": "yeah ",
+          "start": 159.47,
+          "end": 159.79001,
+          "duration": 0.32000732,
+          "metadata": {}
+        }
+      ],
+      "metadata": {},
+      "text": "yeah",
+      "end": 159.79001,
+      "start": 159.47,
+      "lastWord": {
+        "text": "yeah ",
+        "start": 159.47,
+        "end": 159.79001,
+        "duration": 0.32000732,
+        "metadata": {}
+      }
+    },
+    {
+      "speaker": "spk1",
+      "question": false,
+      "words": [
+        {
+          "text": "and ",
+          "start": 160.99,
+          "end": 161.5,
+          "duration": 0.5099945,
+          "metadata": {}
+        },
+        {
+          "text": "how ",
+          "start": 161.53,
+          "end": 161.70999,
+          "duration": 0.17999268,
+          "metadata": {}
+        },
+        {
+          "text": "would ",
+          "start": 161.71,
+          "end": 161.86,
+          "duration": 0.1499939,
+          "metadata": {}
+        },
+        {
+          "text": "you ",
+          "start": 161.86,
+          "end": 162.01,
+          "duration": 0.1499939,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "feel ",
+          "start": 162.01,
+          "end": 162.34,
+          "duration": 0.33000183,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "if ",
+          "start": 162.34,
+          "end": 162.4,
+          "duration": 0.05999756,
+          "metadata": {}
+        },
+        {
+          "text": "you ",
+          "start": 162.43,
+          "end": 162.57999,
+          "duration": 0.1499939,
+          "metadata": {}
+        },
+        {
+          "text": "are ",
+          "start": 162.58,
+          "end": 162.7,
+          "duration": 0.11999512,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "not ",
+          "start": 162.7,
+          "end": 162.91,
+          "duration": 0.21000671,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "to ",
+          "start": 163.14,
+          "end": 163.22,
+          "duration": 0.08000183,
+          "metadata": {}
+        },
+        {
+          "text": "be ",
+          "start": 163.22,
+          "end": 163.39,
+          "duration": 0.16999817,
+          "metadata": {}
+        },
+        {
+          "text": "the ",
+          "start": 163.39,
+          "end": 163.53,
+          "duration": 0.13999939,
+          "metadata": {}
+        },
+        {
+          "text": "king ",
+          "start": 163.57,
+          "end": 163.84001,
+          "duration": 0.27000427,
+          "metadata": {}
+        },
+        {
+          "text": "of ",
+          "start": 163.84,
+          "end": 163.95,
+          "duration": 0.11000061,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "high ",
+          "start": 163.95,
+          "end": 164.05,
+          "duration": 0.1000061,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "ticket ",
+          "start": 164.05,
+          "end": 164.35,
+          "duration": 0.30000305,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "sales ",
+          "start": 164.35,
+          "end": 164.89,
+          "duration": 0.5399933,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "Dan Lok ",
+          "start": 164.95,
+          "end": 165.73,
+          "duration": 0.7799988,
+          "metadata": {}
+        }
+      ],
+      "metadata": {},
+      "text": "and  how  would  you  feel  if  you  are  not  to  be  the  king  of  high  ticket  sales  Dan Lok",
+      "end": 165.73,
+      "start": 160.99,
+      "lastWord": {
+        "text": "Dan Lok ",
+        "start": 164.95,
+        "end": 165.73,
+        "duration": 0.7799988,
+        "metadata": {}
+      }
+    },
+    {
+      "speaker": "spk1",
+      "question": false,
+      "words": [
+        {
+          "text": "and ",
+          "start": 165.88,
+          "end": 166.18001,
+          "duration": 0.30000305,
+          "metadata": {}
+        },
+        {
+          "text": "we ",
+          "start": 166.18,
+          "end": 166.29999,
+          "duration": 0.11999512,
+          "metadata": {}
+        },
+        {
+          "text": "start ",
+          "start": 166.3,
+          "end": 166.57,
+          "duration": 0.27000427,
+          "metadata": {}
+        },
+        {
+          "text": "our ",
+          "start": 166.6,
+          "end": 166.91,
+          "duration": 0.30999756,
+          "metadata": {}
+        },
+        {
+          "text": "relationship ",
+          "start": 166.91,
+          "end": 167.44,
+          "duration": 0.5299988,
+          "metadata": {}
+        },
+        {
+          "text": "by me ",
+          "start": 167.44,
+          "end": 167.54001,
+          "duration": 0.1000061,
+          "metadata": {}
+        },
+        {
+          "text": "giving ",
+          "start": 167.7,
+          "end": 167.89,
+          "duration": 0.19000244,
+          "metadata": {}
+        },
+        {
+          "text": "you ",
+          "start": 167.91,
+          "end": 168.07,
+          "duration": 0.16000366,
+          "metadata": {}
+        },
+        {
+          "text": "a ",
+          "start": 168.07,
+          "end": 168.16,
+          "duration": 0.08999634,
+          "metadata": {}
+        },
+        {
+          "text": "discount ",
+          "start": 168.16,
+          "end": 168.76001,
+          "duration": 0.6000061,
+          "metadata": {}
+        }
+      ],
+      "metadata": {},
+      "text": "and  we  start  our  relationship  by me  giving  you  a  discount",
+      "end": 168.76001,
+      "start": 165.88,
+      "lastWord": {
+        "text": "discount ",
+        "start": 168.16,
+        "end": 168.76001,
+        "duration": 0.6000061,
+        "metadata": {}
+      }
+    },
+    {
+      "speaker": "spk1",
+      "question": true,
+      "words": [
+        {
+          "text": "would ",
+          "start": 172.78,
+          "end": 172.99,
+          "duration": 0.21000671,
+          "metadata": {}
+        },
+        {
+          "text": "you ",
+          "start": 172.99,
+          "end": 173.08,
+          "duration": 0.08999634,
+          "metadata": {}
+        },
+        {
+          "text": "trust ",
+          "start": 173.08,
+          "end": 173.36,
+          "duration": 0.27999878,
+          "metadata": {}
+        },
+        {
+          "text": "would ",
+          "start": 173.5,
+          "end": 173.65,
+          "duration": 0.1499939,
+          "metadata": {}
+        },
+        {
+          "text": "you ",
+          "start": 173.65,
+          "end": 173.73999,
+          "duration": 0.08999634,
+          "metadata": {}
+        },
+        {
+          "text": "try ",
+          "start": 173.74,
+          "end": 173.95001,
+          "duration": 0.21000671,
+          "metadata": {}
+        },
+        {
+          "text": "to ",
+          "start": 173.98,
+          "end": 174.09999,
+          "duration": 0.11999512,
+          "metadata": {}
+        },
+        {
+          "text": "hire a ",
+          "start": 174.3,
+          "end": 174.33,
+          "duration": 0.02999878,
+          "metadata": {}
+        },
+        {
+          "text": "guy ",
+          "start": 174.33,
+          "end": 174.49,
+          "duration": 0.16000366,
+          "metadata": {}
+        },
+        {
+          "text": "like ",
+          "start": 174.5,
+          "end": 174.7,
+          "duration": 0.19999695,
+          "metadata": {}
+        },
+        {
+          "text": "that ",
+          "start": 174.7,
+          "end": 174.87,
+          "duration": 0.16999817,
+          "metadata": {}
+        },
+        {
+          "text": "to ",
+          "start": 174.87,
+          "end": 174.94,
+          "duration": 0.070007324,
+          "metadata": {}
+        },
+        {
+          "text": "help ",
+          "start": 174.95,
+          "end": 175.15,
+          "duration": 0.19999695,
+          "metadata": {}
+        },
+        {
+          "text": "me ",
+          "start": 175.15,
+          "end": 175.22,
+          "duration": 0.070007324,
+          "metadata": {}
+        },
+        {
+          "text": "increase ",
+          "start": 175.22,
+          "end": 175.5,
+          "duration": 0.27999878,
+          "metadata": {}
+        },
+        {
+          "text": "the ",
+          "start": 175.5,
+          "end": 175.56,
+          "duration": 0.05999756,
+          "metadata": {}
+        },
+        {
+          "text": "price ",
+          "start": 175.59,
+          "end": 176.01999,
+          "duration": 0.42999268,
+          "metadata": {}
+        }
+      ],
+      "metadata": {},
+      "text": "would  you  trust  would  you  try  to  hire a  guy  like  that  to  help  me  increase  the  price",
+      "end": 176.01999,
+      "start": 172.78,
+      "lastWord": {
+        "text": "price ",
+        "start": 175.59,
+        "end": 176.01999,
+        "duration": 0.42999268,
+        "metadata": {}
+      }
+    },
+    {
+      "speaker": "spk2",
+      "question": false,
+      "words": [
+        {
+          "text": "again ",
+          "start": 178.16,
+          "end": 178.87001,
+          "duration": 0.7100067,
+          "metadata": {}
+        }
+      ],
+      "metadata": {},
+      "text": "again",
+      "end": 178.87001,
+      "start": 178.16,
+      "lastWord": {
+        "text": "again ",
+        "start": 178.16,
+        "end": 178.87001,
+        "duration": 0.7100067,
+        "metadata": {}
+      }
+    },
+    {
+      "speaker": "spk1",
+      "question": false,
+      "words": [
+        {
+          "text": "yeah ",
+          "start": 180.04,
+          "end": 180.56999,
+          "duration": 0.5299988,
+          "metadata": {}
+        },
+        {
+          "text": "do ",
+          "start": 180.6,
+          "end": 180.72,
+          "duration": 0.11999512,
+          "metadata": {}
+        },
+        {
+          "text": "you ",
+          "start": 180.72,
+          "end": 180.78,
+          "duration": 0.05999756,
+          "metadata": {}
+        },
+        {
+          "text": "want ",
+          "start": 180.78,
+          "end": 180.93,
+          "duration": 0.1499939,
+          "metadata": {}
+        },
+        {
+          "text": "to ",
+          "start": 180.93,
+          "end": 180.98999,
+          "duration": 0.05999756,
+          "metadata": {}
+        },
+        {
+          "text": "be ",
+          "start": 180.99,
+          "end": 181.05,
+          "duration": 0.05999756,
+          "metadata": {}
+        },
+        {
+          "text": "the ",
+          "start": 181.05,
+          "end": 181.17,
+          "duration": 0.11999512,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "most ",
+          "start": 181.17,
+          "end": 181.44,
+          "duration": 0.27000427,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "do ",
+          "start": 181.59,
+          "end": 181.67,
+          "duration": 0.08000183,
+          "metadata": {}
+        },
+        {
+          "text": "you ",
+          "start": 181.68,
+          "end": 181.76999,
+          "duration": 0.08999634,
+          "metadata": {}
+        },
+        {
+          "text": "want ",
+          "start": 181.77,
+          "end": 181.92,
+          "duration": 0.1499939,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "to ",
+          "start": 181.92,
+          "end": 181.98,
+          "duration": 0.05999756,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "Bentley ",
+          "start": 181.98,
+          "end": 182.09,
+          "duration": 0.11000061,
+          "metadata": {}
+        }
+      ],
+      "metadata": {},
+      "text": "yeah  do  you  want  to  be  the  most  do  you  want  to  Bentley",
+      "end": 182.09,
+      "start": 180.04,
+      "lastWord": {
+        "text": "Bentley ",
+        "start": 181.98,
+        "end": 182.09,
+        "duration": 0.11000061,
+        "metadata": {}
+      }
+    },
+    {
+      "speaker": "spk1",
+      "question": false,
+      "words": [
+        {
+          "text": "in ",
+          "start": 182.86,
+          "end": 182.97,
+          "duration": 0.11000061,
+          "metadata": {}
+        }
+      ],
+      "metadata": {},
+      "text": "in",
+      "end": 182.97,
+      "start": 182.86,
+      "lastWord": {
+        "text": "in ",
+        "start": 182.86,
+        "end": 182.97,
+        "duration": 0.11000061,
+        "metadata": {}
+      }
+    },
+    {
+      "speaker": "spk1",
+      "question": false,
+      "words": [
+        {
+          "text": "your ",
+          "start": 183.03,
+          "end": 183.4,
+          "duration": 0.36999512,
+          "metadata": {}
+        },
+        {
+          "text": "industry ",
+          "start": 183.42,
+          "end": 183.51,
+          "duration": 0.08999634,
+          "metadata": {}
+        },
+        {
+          "text": "or ",
+          "start": 183.51,
+          "end": 183.59999,
+          "duration": 0.08999634,
+          "metadata": {}
+        },
+        {
+          "text": "you ",
+          "start": 183.6,
+          "end": 183.69,
+          "duration": 0.08999634,
+          "metadata": {}
+        },
+        {
+          "text": "want ",
+          "start": 183.69,
+          "end": 183.84,
+          "duration": 0.1499939,
+          "metadata": {}
+        },
+        {
+          "text": "to ",
+          "start": 183.84,
+          "end": 183.9,
+          "duration": 0.05999756,
+          "metadata": {}
+        },
+        {
+          "text": "be ",
+          "start": 183.9,
+          "end": 183.98999,
+          "duration": 0.08999634,
+          "metadata": {}
+        },
+        {
+          "text": "the ",
+          "start": 183.99,
+          "end": 184.08,
+          "duration": 0.08999634,
+          "metadata": {}
+        },
+        {
+          "text": "Hyundai ",
+          "start": 184.08,
+          "end": 184.41,
+          "duration": 0.33000183,
+          "metadata": {}
+        }
+      ],
+      "metadata": {},
+      "text": "your  industry  or  you  want  to  be  the  Hyundai",
+      "end": 184.41,
+      "start": 183.03,
+      "lastWord": {
+        "text": "Hyundai ",
+        "start": 184.08,
+        "end": 184.41,
+        "duration": 0.33000183,
+        "metadata": {}
+      }
+    },
+    {
+      "speaker": "spk2",
+      "question": false,
+      "words": [
+        {
+          "text": "correct ",
+          "start": 187.21,
+          "end": 187.87001,
+          "duration": 0.66000366,
+          "metadata": {}
+        }
+      ],
+      "metadata": {},
+      "text": "correct",
+      "end": 187.87001,
+      "start": 187.21,
+      "lastWord": {
+        "text": "correct ",
+        "start": 187.21,
+        "end": 187.87001,
+        "duration": 0.66000366,
+        "metadata": {}
+      }
+    },
+    {
+      "speaker": "spk1",
+      "question": false,
+      "words": [
+        {
+          "text": "and ",
+          "start": 188.14,
+          "end": 188.47,
+          "duration": 0.33000183,
+          "metadata": {}
+        },
+        {
+          "text": "i ",
+          "start": 188.47,
+          "end": 188.59,
+          "duration": 0.11999512,
+          "metadata": {}
+        },
+        {
+          "text": "am ",
+          "start": 188.59,
+          "end": 188.73,
+          "duration": 0.13999939,
+          "metadata": {}
+        },
+        {
+          "text": "the ",
+          "start": 188.74,
+          "end": 188.83,
+          "duration": 0.08999634,
+          "metadata": {}
+        },
+        {
+          "text": "fucking Bentley ",
+          "start": 188.83,
+          "end": 189.13,
+          "duration": 0.30000305,
+          "metadata": {}
+        }
+      ],
+      "metadata": {},
+      "text": "and  i  am  the  fucking Bentley",
+      "end": 189.13,
+      "start": 188.14,
+      "lastWord": {
+        "text": "fucking Bentley ",
+        "start": 188.83,
+        "end": 189.13,
+        "duration": 0.30000305,
+        "metadata": {}
+      }
+    },
+    {
+      "speaker": "spk1",
+      "question": true,
+      "words": [
+        {
+          "text": "so ",
+          "start": 190.36,
+          "end": 190.54,
+          "duration": 0.17999268,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "where ",
+          "start": 190.54,
+          "end": 190.68999,
+          "duration": 0.1499939,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "do ",
+          "start": 190.69,
+          "end": 190.78,
+          "duration": 0.08999634,
+          "metadata": {}
+        },
+        {
+          "text": "we ",
+          "start": 190.78,
+          "end": 190.9,
+          "duration": 0.11999512,
+          "metadata": {}
+        },
+        {
+          "text": "go ",
+          "start": 190.9,
+          "end": 191.01999,
+          "duration": 0.11999512,
+          "metadata": {}
+        },
+        {
+          "text": "from ",
+          "start": 191.02,
+          "end": 191.17,
+          "duration": 0.1499939,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "here ",
+          "start": 191.17,
+          "end": 191.38,
+          "duration": 0.21000671,
+          "metadata": {
+            "overtalk": "true"
+          }
+        }
+      ],
+      "metadata": {},
+      "text": "so  where  do  we  go  from  here",
+      "end": 191.38,
+      "start": 190.36,
+      "lastWord": {
+        "text": "here ",
+        "start": 191.17,
+        "end": 191.38,
+        "duration": 0.21000671,
+        "metadata": {
+          "overtalk": "true"
+        }
+      }
+    },
+    {
+      "speaker": "spk2",
+      "question": false,
+      "words": [
+        {
+          "text": "you ",
+          "start": 198.12,
+          "end": 198.26999,
+          "duration": 0.1499939,
+          "metadata": {}
+        },
+        {
+          "text": "know ",
+          "start": 198.28,
+          "end": 198.4,
+          "duration": 0.11999512,
+          "metadata": {}
+        },
+        {
+          "text": "i ",
+          "start": 198.4,
+          "end": 198.48999,
+          "duration": 0.08999634,
+          "metadata": {}
+        },
+        {
+          "text": "can ",
+          "start": 198.49,
+          "end": 198.73001,
+          "duration": 0.2400055,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "bring ",
+          "start": 198.73,
+          "end": 198.94,
+          "duration": 0.21000671,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "this ",
+          "start": 198.94,
+          "end": 199.14,
+          "duration": 0.19999695,
+          "metadata": {}
+        },
+        {
+          "text": "up or put it in payment plans or what are my options here ",
+          "start": 199.14,
+          "end": 199.84,
+          "duration": 0.69999695,
+          "metadata": {}
+        }
+      ],
+      "metadata": {},
+      "text": "you  know  i  can  bring  this  up or put it in payment plans or what are my options here",
+      "end": 199.84,
+      "start": 198.12,
+      "lastWord": {
+        "text": "up or put it in payment plans or what are my options here ",
+        "start": 199.14,
+        "end": 199.84,
+        "duration": 0.69999695,
+        "metadata": {}
+      }
+    },
+    {
+      "speaker": "spk1",
+      "question": true,
+      "words": [
+        {
+          "text": "what ",
+          "start": 207.04,
+          "end": 207.25,
+          "duration": 0.21000671,
+          "metadata": {}
+        },
+        {
+          "text": "do ",
+          "start": 207.25,
+          "end": 207.31,
+          "duration": 0.05999756,
+          "metadata": {}
+        },
+        {
+          "text": "you ",
+          "start": 207.31,
+          "end": 207.43,
+          "duration": 0.11999512,
+          "metadata": {}
+        },
+        {
+          "text": "mean ",
+          "start": 207.43,
+          "end": 207.7,
+          "duration": 0.27000427,
+          "metadata": {}
+        }
+      ],
+      "metadata": {},
+      "text": "what  do  you  mean",
+      "end": 207.7,
+      "start": 207.04,
+      "lastWord": {
+        "text": "mean ",
+        "start": 207.43,
+        "end": 207.7,
+        "duration": 0.27000427,
+        "metadata": {}
+      }
+    },
+    {
+      "speaker": "spk2",
+      "question": false,
+      "words": [
+        {
+          "text": "the ",
+          "start": 211.84,
+          "end": 211.97,
+          "duration": 0.13000488,
+          "metadata": {}
+        },
+        {
+          "text": "divide ",
+          "start": 212.01,
+          "end": 212.28,
+          "duration": 0.27000427,
+          "metadata": {}
+        },
+        {
+          "text": "like pay ",
+          "start": 212.53,
+          "end": 212.83,
+          "duration": 0.30000305,
+          "metadata": {}
+        },
+        {
+          "text": "for one hour ",
+          "start": 213.34,
+          "end": 213.51999,
+          "duration": 0.17999268,
+          "metadata": {}
+        }
+      ],
+      "metadata": {},
+      "text": "the  divide  like pay  for one hour",
+      "end": 213.51999,
+      "start": 211.84,
+      "lastWord": {
+        "text": "for one hour ",
+        "start": 213.34,
+        "end": 213.51999,
+        "duration": 0.17999268,
+        "metadata": {}
+      }
+    },
+    {
+      "speaker": "spk2",
+      "question": false,
+      "words": [
+        {
+          "text": "like ",
+          "start": 215.92,
+          "end": 216.13,
+          "duration": 0.21000671,
+          "metadata": {}
+        },
+        {
+          "text": "an ",
+          "start": 216.13,
+          "end": 216.25,
+          "duration": 0.11999512,
+          "metadata": {}
+        },
+        {
+          "text": "hour ",
+          "start": 216.25,
+          "end": 216.58,
+          "duration": 0.33000183,
+          "metadata": {}
+        }
+      ],
+      "metadata": {},
+      "text": "like  an  hour",
+      "end": 216.58,
+      "start": 215.92,
+      "lastWord": {
+        "text": "hour ",
+        "start": 216.25,
+        "end": 216.58,
+        "duration": 0.33000183,
+        "metadata": {}
+      }
+    },
+    {
+      "speaker": "spk1",
+      "question": false,
+      "words": [
+        {
+          "text": "so ",
+          "start": 222.19,
+          "end": 222.37,
+          "duration": 0.17999268,
+          "metadata": {}
+        },
+        {
+          "text": "you ",
+          "start": 222.37,
+          "end": 222.43,
+          "duration": 0.05999756,
+          "metadata": {}
+        },
+        {
+          "text": "want ",
+          "start": 222.43,
+          "end": 222.60999,
+          "duration": 0.17999268,
+          "metadata": {}
+        },
+        {
+          "text": "to ",
+          "start": 222.61,
+          "end": 222.67,
+          "duration": 0.05999756,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "can ",
+          "start": 222.67,
+          "end": 222.84999,
+          "duration": 0.17999268,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "like ",
+          "start": 222.86,
+          "end": 223,
+          "duration": 0.13999939,
+          "metadata": {}
+        },
+        {
+          "text": "half ",
+          "start": 223,
+          "end": 223.27,
+          "duration": 0.27000427,
+          "metadata": {}
+        },
+        {
+          "text": "hour ",
+          "start": 223.31,
+          "end": 223.48,
+          "duration": 0.16999817,
+          "metadata": {}
+        },
+        {
+          "text": "half ",
+          "start": 223.48,
+          "end": 223.76999,
+          "duration": 0.2899933,
+          "metadata": {}
+        },
+        {
+          "text": "and ",
+          "start": 223.78,
+          "end": 223.9,
+          "duration": 0.11999512,
+          "metadata": {}
+        },
+        {
+          "text": "complete ",
+          "start": 223.9,
+          "end": 224.23,
+          "duration": 0.33000183,
+          "metadata": {}
+        },
+        {
+          "text": "it ",
+          "start": 224.65,
+          "end": 224.70999,
+          "duration": 0.05999756,
+          "metadata": {}
+        },
+        {
+          "text": "is a ",
+          "start": 224.74,
+          "end": 224.92,
+          "duration": 0.17999268,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "two hour ",
+          "start": 224.92,
+          "end": 225.09999,
+          "duration": 0.17999268,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "commitment ",
+          "start": 225.1,
+          "end": 225.58,
+          "duration": 0.47999573,
+          "metadata": {}
+        }
+      ],
+      "metadata": {},
+      "text": "so  you  want  to  can  like  half  hour  half  and  complete  it  is a  two hour  commitment",
+      "end": 225.58,
+      "start": 222.19,
+      "lastWord": {
+        "text": "commitment ",
+        "start": 225.1,
+        "end": 225.58,
+        "duration": 0.47999573,
+        "metadata": {}
+      }
+    },
+    {
+      "speaker": "spk1",
+      "question": true,
+      "words": [
+        {
+          "text": "you're ",
+          "start": 226.27,
+          "end": 226.57,
+          "duration": 0.30000305,
+          "metadata": {}
+        },
+        {
+          "text": "going ",
+          "start": 226.58,
+          "end": 226.78,
+          "duration": 0.19999695,
+          "metadata": {}
+        },
+        {
+          "text": "to ",
+          "start": 226.78,
+          "end": 226.84,
+          "duration": 0.05999756,
+          "metadata": {}
+        },
+        {
+          "text": "be ",
+          "start": 226.84,
+          "end": 226.9,
+          "duration": 0.05999756,
+          "metadata": {}
+        },
+        {
+          "text": "okay ",
+          "start": 226.91,
+          "end": 227.17,
+          "duration": 0.2599945,
+          "metadata": {}
+        },
+        {
+          "text": "with ",
+          "start": 227.17,
+          "end": 227.31999,
+          "duration": 0.1499939,
+          "metadata": {}
+        },
+        {
+          "text": "that ",
+          "start": 227.32,
+          "end": 227.44,
+          "duration": 0.11999512,
+          "metadata": {}
+        },
+        {
+          "text": "right ",
+          "start": 227.44,
+          "end": 227.68001,
+          "duration": 0.2400055,
+          "metadata": {}
+        }
+      ],
+      "metadata": {},
+      "text": "you're  going  to  be  okay  with  that  right",
+      "end": 227.68001,
+      "start": 226.27,
+      "lastWord": {
+        "text": "right ",
+        "start": 227.44,
+        "end": 227.68001,
+        "duration": 0.2400055,
+        "metadata": {}
+      }
+    },
+    {
+      "speaker": "spk2",
+      "question": false,
+      "words": [
+        {
+          "text": "yeah ",
+          "start": 228.83,
+          "end": 229.16,
+          "duration": 0.33000183,
+          "metadata": {}
+        }
+      ],
+      "metadata": {},
+      "text": "yeah",
+      "end": 229.16,
+      "start": 228.83,
+      "lastWord": {
+        "text": "yeah ",
+        "start": 228.83,
+        "end": 229.16,
+        "duration": 0.33000183,
+        "metadata": {}
+      }
+    },
+    {
+      "speaker": "spk1",
+      "question": false,
+      "words": [
+        {
+          "text": "because ",
+          "start": 230.22,
+          "end": 230.74,
+          "duration": 0.5200043,
+          "metadata": {}
+        },
+        {
+          "text": "cash ",
+          "start": 230.74,
+          "end": 231.07,
+          "duration": 0.33000183,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "flow ",
+          "start": 231.07,
+          "end": 231.31001,
+          "duration": 0.2400055,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "i ",
+          "start": 231.31,
+          "end": 231.4,
+          "duration": 0.08999634,
+          "metadata": {}
+        },
+        {
+          "text": "get ",
+          "start": 231.4,
+          "end": 231.61,
+          "duration": 0.21000671,
+          "metadata": {}
+        },
+        {
+          "text": "I have been ",
+          "start": 231.61,
+          "end": 231.73,
+          "duration": 0.11999512,
+          "metadata": {}
+        },
+        {
+          "text": "there ",
+          "start": 232.06,
+          "end": 232.3,
+          "duration": 0.2400055,
+          "metadata": {}
+        }
+      ],
+      "metadata": {},
+      "text": "because  cash  flow  i  get  I have been  there",
+      "end": 232.3,
+      "start": 230.22,
+      "lastWord": {
+        "text": "there ",
+        "start": 232.06,
+        "end": 232.3,
+        "duration": 0.2400055,
+        "metadata": {}
+      }
+    },
+    {
+      "speaker": "spk1",
+      "question": false,
+      "words": [
+        {
+          "text": "when ",
+          "start": 232.66,
+          "end": 232.84,
+          "duration": 0.17999268,
+          "metadata": {}
+        },
+        {
+          "text": "i ",
+          "start": 232.84,
+          "end": 232.9,
+          "duration": 0.05999756,
+          "metadata": {}
+        },
+        {
+          "text": "even ",
+          "start": 232.9,
+          "end": 233.14,
+          "duration": 0.2400055,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "when ",
+          "start": 233.14,
+          "end": 233.26,
+          "duration": 0.11999512,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "i ",
+          "start": 233.26,
+          "end": 233.31999,
+          "duration": 0.05999756,
+          "metadata": {}
+        },
+        {
+          "text": "was ",
+          "start": 233.32,
+          "end": 233.53001,
+          "duration": 0.21000671,
+          "metadata": {}
+        },
+        {
+          "text": "starting ",
+          "start": 233.53,
+          "end": 233.89,
+          "duration": 0.3600006,
+          "metadata": {}
+        },
+        {
+          "text": "my ",
+          "start": 233.92,
+          "end": 234.06999,
+          "duration": 0.1499939,
+          "metadata": {}
+        },
+        {
+          "text": "business ",
+          "start": 234.07,
+          "end": 234.67001,
+          "duration": 0.6000061,
+          "metadata": {}
+        }
+      ],
+      "metadata": {},
+      "text": "when  i  even  when  i  was  starting  my  business",
+      "end": 234.67001,
+      "start": 232.66,
+      "lastWord": {
+        "text": "business ",
+        "start": 234.07,
+        "end": 234.67001,
+        "duration": 0.6000061,
+        "metadata": {}
+      }
+    },
+    {
+      "speaker": "spk1",
+      "question": false,
+      "words": [
+        {
+          "text": "so ",
+          "start": 235.12,
+          "end": 235.42,
+          "duration": 0.30000305,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "you ",
+          "start": 235.42,
+          "end": 235.58,
+          "duration": 0.16000366,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "you're ",
+          "start": 235.58,
+          "end": 235.78,
+          "duration": 0.19999695,
+          "metadata": {}
+        },
+        {
+          "text": "saying ",
+          "start": 235.78,
+          "end": 236.08,
+          "duration": 0.30000305,
+          "metadata": {}
+        },
+        {
+          "text": "five ",
+          "start": 236.11,
+          "end": 236.35,
+          "duration": 0.2400055,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "thousand ",
+          "start": 236.35,
+          "end": 236.83,
+          "duration": 0.47999573,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "maybe ",
+          "start": 236.86,
+          "end": 237.1,
+          "duration": 0.2400055,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "this ",
+          "start": 237.1,
+          "end": 237.31001,
+          "duration": 0.21000671,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "month ",
+          "start": 237.31,
+          "end": 237.64,
+          "duration": 0.33000183,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "and ",
+          "start": 237.64,
+          "end": 237.79,
+          "duration": 0.1499939,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "five ",
+          "start": 237.79,
+          "end": 237.93999,
+          "duration": 0.1499939,
+          "metadata": {}
+        },
+        {
+          "text": "thousand ",
+          "start": 237.94,
+          "end": 238.14,
+          "duration": 0.19999695,
+          "metadata": {}
+        },
+        {
+          "text": "the ",
+          "start": 238.14,
+          "end": 238.2,
+          "duration": 0.05999756,
+          "metadata": {}
+        },
+        {
+          "text": "next ",
+          "start": 238.21,
+          "end": 238.42001,
+          "duration": 0.21000671,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "month ",
+          "start": 238.42,
+          "end": 238.59999,
+          "duration": 0.17999268,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "correct ",
+          "start": 238.6,
+          "end": 238.96,
+          "duration": 0.3600006,
+          "metadata": {}
+        }
+      ],
+      "metadata": {},
+      "text": "so  you  you're  saying  five  thousand  maybe  this  month  and  five  thousand  the  next  month  correct",
+      "end": 238.96,
+      "start": 235.12,
+      "lastWord": {
+        "text": "correct ",
+        "start": 238.6,
+        "end": 238.96,
+        "duration": 0.3600006,
+        "metadata": {}
+      }
+    },
+    {
+      "speaker": "spk2",
+      "question": false,
+      "words": [
+        {
+          "text": "yes ",
+          "start": 240.19,
+          "end": 240.64,
+          "duration": 0.44999695,
+          "metadata": {}
+        }
+      ],
+      "metadata": {},
+      "text": "yes",
+      "end": 240.64,
+      "start": 240.19,
+      "lastWord": {
+        "text": "yes ",
+        "start": 240.19,
+        "end": 240.64,
+        "duration": 0.44999695,
+        "metadata": {}
+      }
+    },
+    {
+      "speaker": "spk1",
+      "question": false,
+      "words": [
+        {
+          "text": "Let's pretend ",
+          "start": 243.43,
+          "end": 243.79,
+          "duration": 0.3600006,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "for ",
+          "start": 243.79,
+          "end": 243.90999,
+          "duration": 0.11999512,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "I ",
+          "start": 243.91,
+          "end": 244.09,
+          "duration": 0.17999268,
+          "metadata": {}
+        },
+        {
+          "text": "would ",
+          "start": 244.09,
+          "end": 244.29,
+          "duration": 0.19999695,
+          "metadata": {}
+        },
+        {
+          "text": "accept ",
+          "start": 244.31,
+          "end": 244.63,
+          "duration": 0.32000732,
+          "metadata": {}
+        },
+        {
+          "text": "the ",
+          "start": 244.63,
+          "end": 244.75,
+          "duration": 0.11999512,
+          "metadata": {}
+        },
+        {
+          "text": "offer ",
+          "start": 244.75,
+          "end": 245.2,
+          "duration": 0.44999695,
+          "metadata": {}
+        }
+      ],
+      "metadata": {},
+      "text": "Let's pretend  for  I  would  accept  the  offer",
+      "end": 245.2,
+      "start": 243.43,
+      "lastWord": {
+        "text": "offer ",
+        "start": 244.75,
+        "end": 245.2,
+        "duration": 0.44999695,
+        "metadata": {}
+      }
+    },
+    {
+      "speaker": "spk1",
+      "question": true,
+      "words": [
+        {
+          "text": "would ",
+          "start": 245.85,
+          "end": 246.07,
+          "duration": 0.22000122,
+          "metadata": {}
+        },
+        {
+          "text": "you ",
+          "start": 246.07,
+          "end": 246.16,
+          "duration": 0.08999634,
+          "metadata": {}
+        },
+        {
+          "text": "say ",
+          "start": 246.16,
+          "end": 246.34,
+          "duration": 0.17999268,
+          "metadata": {}
+        },
+        {
+          "text": "to ",
+          "start": 246.34,
+          "end": 246.43,
+          "duration": 0.08999634,
+          "metadata": {}
+        },
+        {
+          "text": "me ",
+          "start": 246.43,
+          "end": 246.64,
+          "duration": 0.21000671,
+          "metadata": {}
+        }
+      ],
+      "metadata": {},
+      "text": "would  you  say  to  me",
+      "end": 246.64,
+      "start": 245.85,
+      "lastWord": {
+        "text": "me ",
+        "start": 246.43,
+        "end": 246.64,
+        "duration": 0.21000671,
+        "metadata": {}
+      }
+    },
+    {
+      "speaker": "spk2",
+      "question": false,
+      "words": [
+        {
+          "text": "and ",
+          "start": 249.31,
+          "end": 249.7,
+          "duration": 0.3899994,
+          "metadata": {}
+        }
+      ],
+      "metadata": {},
+      "text": "and",
+      "end": 249.7,
+      "start": 249.31,
+      "lastWord": {
+        "text": "and ",
+        "start": 249.31,
+        "end": 249.7,
+        "duration": 0.3899994,
+        "metadata": {}
+      }
+    },
+    {
+      "speaker": "spk1",
+      "question": false,
+      "words": [
+        {
+          "text": "are ",
+          "start": 251.32,
+          "end": 251.44,
+          "duration": 0.11999512,
+          "metadata": {}
+        },
+        {
+          "text": "you ",
+          "start": 251.44,
+          "end": 251.53,
+          "duration": 0.08999634,
+          "metadata": {}
+        },
+        {
+          "text": "sure ",
+          "start": 251.53,
+          "end": 251.83,
+          "duration": 0.30000305,
+          "metadata": {}
+        },
+        {
+          "text": "you ",
+          "start": 251.83,
+          "end": 251.92,
+          "duration": 0.08999634,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "don't ",
+          "start": 251.92,
+          "end": 252.09999,
+          "duration": 0.17999268,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "sound ",
+          "start": 252.1,
+          "end": 252.31001,
+          "duration": 0.21000671,
+          "metadata": {}
+        },
+        {
+          "text": "like ",
+          "start": 252.31,
+          "end": 252.45999,
+          "duration": 0.1499939,
+          "metadata": {}
+        },
+        {
+          "text": "very certain ",
+          "start": 252.88,
+          "end": 253.06,
+          "duration": 0.17999268,
+          "metadata": {}
+        }
+      ],
+      "metadata": {},
+      "text": "are  you  sure  you  don't  sound  like  very certain",
+      "end": 253.06,
+      "start": 251.32,
+      "lastWord": {
+        "text": "very certain ",
+        "start": 252.88,
+        "end": 253.06,
+        "duration": 0.17999268,
+        "metadata": {}
+      }
+    },
+    {
+      "speaker": "spk1",
+      "question": false,
+      "words": [
+        {
+          "text": "'cause ",
+          "start": 253.66,
+          "end": 254.05,
+          "duration": 0.3899994,
+          "metadata": {}
+        },
+        {
+          "text": "i ",
+          "start": 254.08,
+          "end": 254.2,
+          "duration": 0.11999512,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "don't ",
+          "start": 254.2,
+          "end": 254.31999,
+          "duration": 0.11999512,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "want ",
+          "start": 254.32,
+          "end": 254.5,
+          "duration": 0.17999268,
+          "metadata": {}
+        },
+        {
+          "text": "to ",
+          "start": 254.53,
+          "end": 254.62,
+          "duration": 0.08999634,
+          "metadata": {}
+        },
+        {
+          "text": "do ",
+          "start": 254.63,
+          "end": 254.79001,
+          "duration": 0.16000366,
+          "metadata": {}
+        },
+        {
+          "text": "this ",
+          "start": 254.8,
+          "end": 255.01001,
+          "duration": 0.21000671,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "if ",
+          "start": 255.01,
+          "end": 255.12999,
+          "duration": 0.11999512,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "you're ",
+          "start": 255.13,
+          "end": 255.25,
+          "duration": 0.11999512,
+          "metadata": {}
+        },
+        {
+          "text": "not ",
+          "start": 255.25,
+          "end": 255.43,
+          "duration": 0.17999268,
+          "metadata": {}
+        },
+        {
+          "text": "sure ",
+          "start": 255.43,
+          "end": 255.7,
+          "duration": 0.27000427,
+          "metadata": {}
+        }
+      ],
+      "metadata": {},
+      "text": "'cause  i  don't  want  to  do  this  if  you're  not  sure",
+      "end": 255.7,
+      "start": 253.66,
+      "lastWord": {
+        "text": "sure ",
+        "start": 255.43,
+        "end": 255.7,
+        "duration": 0.27000427,
+        "metadata": {}
+      }
+    },
+    {
+      "speaker": "spk1",
+      "question": false,
+      "words": [
+        {
+          "text": "but ",
+          "start": 256.51,
+          "end": 256.86002,
+          "duration": 0.3500061,
+          "metadata": {}
+        },
+        {
+          "text": "'cause ",
+          "start": 257.59,
+          "end": 257.83,
+          "duration": 0.23999023,
+          "metadata": {}
+        },
+        {
+          "text": "i'm ",
+          "start": 257.83,
+          "end": 258.00998,
+          "duration": 0.17999268,
+          "metadata": {}
+        },
+        {
+          "text": "going ",
+          "start": 258.01,
+          "end": 258.16,
+          "duration": 0.1499939,
+          "metadata": {}
+        },
+        {
+          "text": "to ",
+          "start": 258.16,
+          "end": 258.22,
+          "duration": 0.05999756,
+          "metadata": {}
+        },
+        {
+          "text": "help ",
+          "start": 258.22,
+          "end": 258.43,
+          "duration": 0.20999146,
+          "metadata": {}
+        },
+        {
+          "text": "you ",
+          "start": 258.43,
+          "end": 258.58,
+          "duration": 0.1499939,
+          "metadata": {}
+        },
+        {
+          "text": "but ",
+          "start": 258.58,
+          "end": 258.75998,
+          "duration": 0.17999268,
+          "metadata": {}
+        },
+        {
+          "text": "damn ",
+          "start": 258.76,
+          "end": 259.06,
+          "duration": 0.2999878,
+          "metadata": {}
+        },
+        {
+          "text": "going ",
+          "start": 259.1,
+          "end": 259.24002,
+          "duration": 0.14001465,
+          "metadata": {}
+        },
+        {
+          "text": "to ",
+          "start": 259.24,
+          "end": 259.3,
+          "duration": 0.05999756,
+          "metadata": {}
+        },
+        {
+          "text": "do ",
+          "start": 259.3,
+          "end": 259.38998,
+          "duration": 0.08999634,
+          "metadata": {}
+        },
+        {
+          "text": "the ",
+          "start": 259.39,
+          "end": 259.48,
+          "duration": 0.08999634,
+          "metadata": {}
+        },
+        {
+          "text": "booking ",
+          "start": 259.48,
+          "end": 259.75,
+          "duration": 0.269989,
+          "metadata": {}
+        },
+        {
+          "text": "work ",
+          "start": 259.75,
+          "end": 260.05,
+          "duration": 0.2999878,
+          "metadata": {}
+        }
+      ],
+      "metadata": {},
+      "text": "but  'cause  i'm  going  to  help  you  but  damn  going  to  do  the  booking  work",
+      "end": 260.05,
+      "start": 256.51,
+      "lastWord": {
+        "text": "work ",
+        "start": 259.75,
+        "end": 260.05,
+        "duration": 0.2999878,
+        "metadata": {}
+      }
+    },
+    {
+      "speaker": "spk2",
+      "question": false,
+      "words": [
+        {
+          "text": "this ",
+          "start": 262.57,
+          "end": 262.93,
+          "duration": 0.35998535,
+          "metadata": {}
+        },
+        {
+          "text": "is ",
+          "start": 262.93,
+          "end": 263.07,
+          "duration": 0.14001465,
+          "metadata": {}
+        },
+        {
+          "text": "your ",
+          "start": 263.08,
+          "end": 263.37997,
+          "duration": 0.2999878,
+          "metadata": {}
+        },
+        {
+          "text": "339 ",
+          "start": 263.38,
+          "end": 267.42,
+          "duration": 4.0400085,
+          "metadata": {}
+        }
+      ],
+      "metadata": {},
+      "text": "this  is  your  339",
+      "end": 267.42,
+      "start": 262.57,
+      "lastWord": {
+        "text": "339 ",
+        "start": 263.38,
+        "end": 267.42,
+        "duration": 4.0400085,
+        "metadata": {}
+      }
+    },
+    {
+      "speaker": "spk1",
+      "question": false,
+      "words": [
+        {
+          "text": "so ",
+          "start": 269.95,
+          "end": 270.09003,
+          "duration": 0.14001465,
+          "metadata": {}
+        },
+        {
+          "text": "so ",
+          "start": 270.1,
+          "end": 270.24002,
+          "duration": 0.14001465,
+          "metadata": {}
+        },
+        {
+          "text": "you ",
+          "start": 270.26,
+          "end": 270.34,
+          "duration": 0.07998657,
+          "metadata": {}
+        },
+        {
+          "text": "want ",
+          "start": 270.34,
+          "end": 270.46,
+          "duration": 0.11999512,
+          "metadata": {}
+        },
+        {
+          "text": "to ",
+          "start": 270.46,
+          "end": 270.52,
+          "duration": 0.05999756,
+          "metadata": {}
+        },
+        {
+          "text": "do ",
+          "start": 270.52,
+          "end": 270.63998,
+          "duration": 0.11999512,
+          "metadata": {}
+        },
+        {
+          "text": "this ",
+          "start": 270.64,
+          "end": 271,
+          "duration": 0.35998535,
+          "metadata": {}
+        }
+      ],
+      "metadata": {},
+      "text": "so  so  you  want  to  do  this",
+      "end": 271,
+      "start": 269.95,
+      "lastWord": {
+        "text": "this ",
+        "start": 270.64,
+        "end": 271,
+        "duration": 0.35998535,
+        "metadata": {}
+      }
+    },
+    {
+      "speaker": "spk1",
+      "question": false,
+      "words": [
+        {
+          "text": "you're ",
+          "start": 272.98,
+          "end": 273.28,
+          "duration": 0.2999878,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "not ",
+          "start": 273.28,
+          "end": 273.38,
+          "duration": 0.1000061,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "going ",
+          "start": 273.38,
+          "end": 273.49,
+          "duration": 0.10998535,
+          "metadata": {}
+        },
+        {
+          "text": "to ",
+          "start": 273.49,
+          "end": 273.55,
+          "duration": 0.05999756,
+          "metadata": {}
+        },
+        {
+          "text": "come ",
+          "start": 273.55,
+          "end": 273.66998,
+          "duration": 0.11999512,
+          "metadata": {}
+        },
+        {
+          "text": "back ",
+          "start": 273.67,
+          "end": 273.86002,
+          "duration": 0.19000244,
+          "metadata": {}
+        },
+        {
+          "text": "to ",
+          "start": 273.86,
+          "end": 273.93,
+          "duration": 0.070007324,
+          "metadata": {}
+        },
+        {
+          "text": "you ",
+          "start": 273.93,
+          "end": 273.99,
+          "duration": 0.05999756,
+          "metadata": {}
+        },
+        {
+          "text": "so ",
+          "start": 274.11,
+          "end": 274.21,
+          "duration": 0.1000061,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "you ",
+          "start": 274.21,
+          "end": 274.28998,
+          "duration": 0.07998657,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "change ",
+          "start": 274.3,
+          "end": 274.53998,
+          "duration": 0.23999023,
+          "metadata": {}
+        },
+        {
+          "text": "your ",
+          "start": 274.54,
+          "end": 274.63,
+          "duration": 0.08999634,
+          "metadata": {}
+        },
+        {
+          "text": "mind ",
+          "start": 274.63,
+          "end": 274.87,
+          "duration": 0.23999023,
+          "metadata": {}
+        },
+        {
+          "text": "tomorrow ",
+          "start": 274.87,
+          "end": 275.35,
+          "duration": 0.480011,
+          "metadata": {}
+        }
+      ],
+      "metadata": {},
+      "text": "you're  not  going  to  come  back  to  you  so  you  change  your  mind  tomorrow",
+      "end": 275.35,
+      "start": 272.98,
+      "lastWord": {
+        "text": "tomorrow ",
+        "start": 274.87,
+        "end": 275.35,
+        "duration": 0.480011,
+        "metadata": {}
+      }
+    },
+    {
+      "speaker": "spk1",
+      "question": false,
+      "words": [
+        {
+          "text": "yeah ",
+          "start": 277.12,
+          "end": 277.46,
+          "duration": 0.33999634,
+          "metadata": {}
+        },
+        {
+          "text": "'cause ",
+          "start": 277.46,
+          "end": 277.81,
+          "duration": 0.3500061,
+          "metadata": {}
+        },
+        {
+          "text": "if ",
+          "start": 277.84,
+          "end": 278.02,
+          "duration": 0.17999268,
+          "metadata": {}
+        },
+        {
+          "text": "that's ",
+          "start": 278.02,
+          "end": 278.19998,
+          "duration": 0.17999268,
+          "metadata": {}
+        },
+        {
+          "text": "the ",
+          "start": 278.2,
+          "end": 278.26,
+          "duration": 0.05999756,
+          "metadata": {}
+        },
+        {
+          "text": "case ",
+          "start": 278.26,
+          "end": 278.5,
+          "duration": 0.23999023,
+          "metadata": {}
+        },
+        {
+          "text": "i ",
+          "start": 278.5,
+          "end": 278.56,
+          "duration": 0.05999756,
+          "metadata": {}
+        },
+        {
+          "text": "don't ",
+          "start": 278.56,
+          "end": 278.71,
+          "duration": 0.1499939,
+          "metadata": {}
+        },
+        {
+          "text": "want ",
+          "start": 278.71,
+          "end": 278.83,
+          "duration": 0.11999512,
+          "metadata": {}
+        },
+        {
+          "text": "to ",
+          "start": 278.83,
+          "end": 278.88998,
+          "duration": 0.05999756,
+          "metadata": {}
+        },
+        {
+          "text": "waste ",
+          "start": 278.89,
+          "end": 279.04,
+          "duration": 0.1499939,
+          "metadata": {}
+        },
+        {
+          "text": "your ",
+          "start": 279.04,
+          "end": 279.13,
+          "duration": 0.08999634,
+          "metadata": {}
+        },
+        {
+          "text": "time ",
+          "start": 279.13,
+          "end": 279.4,
+          "duration": 0.269989,
+          "metadata": {}
+        },
+        {
+          "text": "i ",
+          "start": 279.4,
+          "end": 279.5,
+          "duration": 0.1000061,
+          "metadata": {}
+        },
+        {
+          "text": "don't ",
+          "start": 279.52,
+          "end": 279.66998,
+          "duration": 0.1499939,
+          "metadata": {}
+        },
+        {
+          "text": "i ",
+          "start": 279.67,
+          "end": 279.73,
+          "duration": 0.05999756,
+          "metadata": {}
+        },
+        {
+          "text": "don't ",
+          "start": 279.79,
+          "end": 279.88,
+          "duration": 0.08999634,
+          "metadata": {}
+        },
+        {
+          "text": "want ",
+          "start": 279.88,
+          "end": 280,
+          "duration": 0.11999512,
+          "metadata": {}
+        },
+        {
+          "text": "to ",
+          "start": 280,
+          "end": 280.06,
+          "duration": 0.05999756,
+          "metadata": {}
+        },
+        {
+          "text": "waste ",
+          "start": 280.06,
+          "end": 280.21,
+          "duration": 0.1499939,
+          "metadata": {}
+        },
+        {
+          "text": "my ",
+          "start": 280.21,
+          "end": 280.38998,
+          "duration": 0.17999268,
+          "metadata": {}
+        },
+        {
+          "text": "time ",
+          "start": 280.39,
+          "end": 280.6,
+          "duration": 0.20999146,
+          "metadata": {}
+        }
+      ],
+      "metadata": {},
+      "text": "yeah  'cause  if  that's  the  case  i  don't  want  to  waste  your  time  i  don't  i  don't  want  to  waste  my  time",
+      "end": 280.6,
+      "start": 277.12,
+      "lastWord": {
+        "text": "time ",
+        "start": 280.39,
+        "end": 280.6,
+        "duration": 0.20999146,
+        "metadata": {}
+      }
+    },
+    {
+      "speaker": "spk2",
+      "question": false,
+      "words": [
+        {
+          "text": "is ",
+          "start": 283.49,
+          "end": 283.55,
+          "duration": 0.05999756,
+          "metadata": {}
+        },
+        {
+          "text": "now ",
+          "start": 283.56,
+          "end": 283.93,
+          "duration": 0.36999512,
+          "metadata": {}
+        }
+      ],
+      "metadata": {},
+      "text": "is  now",
+      "end": 283.93,
+      "start": 283.49,
+      "lastWord": {
+        "text": "now ",
+        "start": 283.56,
+        "end": 283.93,
+        "duration": 0.36999512,
+        "metadata": {}
+      }
+    },
+    {
+      "speaker": "spk1",
+      "question": false,
+      "words": [
+        {
+          "text": "and ",
+          "start": 285.58,
+          "end": 285.90997,
+          "duration": 0.32998657,
+          "metadata": {}
+        },
+        {
+          "text": "i'm ",
+          "start": 285.91,
+          "end": 286,
+          "duration": 0.08999634,
+          "metadata": {}
+        },
+        {
+          "text": "going ",
+          "start": 286,
+          "end": 286.12,
+          "duration": 0.11999512,
+          "metadata": {}
+        },
+        {
+          "text": "to ",
+          "start": 286.12,
+          "end": 286.18,
+          "duration": 0.05999756,
+          "metadata": {}
+        },
+        {
+          "text": "give ",
+          "start": 286.18,
+          "end": 286.33,
+          "duration": 0.1499939,
+          "metadata": {}
+        },
+        {
+          "text": "you ",
+          "start": 286.33,
+          "end": 286.41998,
+          "duration": 0.08999634,
+          "metadata": {}
+        },
+        {
+          "text": "the ",
+          "start": 286.42,
+          "end": 286.51,
+          "duration": 0.08999634,
+          "metadata": {}
+        },
+        {
+          "text": "strategies ",
+          "start": 286.51,
+          "end": 287.26,
+          "duration": 0.75,
+          "metadata": {}
+        },
+        {
+          "text": "i ",
+          "start": 287.53,
+          "end": 287.79,
+          "duration": 0.26000977,
+          "metadata": {}
+        },
+        {
+          "text": "don't ",
+          "start": 287.85,
+          "end": 288.16,
+          "duration": 0.30999756,
+          "metadata": {}
+        },
+        {
+          "text": "even ",
+          "start": 288.16,
+          "end": 288.61002,
+          "duration": 0.4500122,
+          "metadata": {}
+        },
+        {
+          "text": "mind ",
+          "start": 288.61,
+          "end": 288.96997,
+          "duration": 0.35998535,
+          "metadata": {}
+        },
+        {
+          "text": "we ",
+          "start": 288.98,
+          "end": 289.06,
+          "duration": 0.07998657,
+          "metadata": {}
+        },
+        {
+          "text": "don't ",
+          "start": 289.06,
+          "end": 289.18,
+          "duration": 0.11999512,
+          "metadata": {}
+        },
+        {
+          "text": "have ",
+          "start": 289.18,
+          "end": 289.27,
+          "duration": 0.08999634,
+          "metadata": {}
+        },
+        {
+          "text": "to ",
+          "start": 289.27,
+          "end": 289.33,
+          "duration": 0.05999756,
+          "metadata": {}
+        },
+        {
+          "text": "do ",
+          "start": 289.33,
+          "end": 289.44998,
+          "duration": 0.11999512,
+          "metadata": {}
+        },
+        {
+          "text": "the ",
+          "start": 289.45,
+          "end": 289.57,
+          "duration": 0.11999512,
+          "metadata": {}
+        },
+        {
+          "text": "two ",
+          "start": 289.57,
+          "end": 290.02002,
+          "duration": 0.4500122,
+          "metadata": {}
+        },
+        {
+          "text": "hour ",
+          "start": 290.05,
+          "end": 290.37997,
+          "duration": 0.32998657,
+          "metadata": {}
+        },
+        {
+          "text": "call ",
+          "start": 290.38,
+          "end": 290.89,
+          "duration": 0.51000977,
+          "metadata": {}
+        },
+        {
+          "text": "upfront ",
+          "start": 290.95,
+          "end": 291.52002,
+          "duration": 0.5700073,
+          "metadata": {}
+        },
+        {
+          "text": "i ",
+          "start": 291.82,
+          "end": 291.97,
+          "duration": 0.1499939,
+          "metadata": {}
+        },
+        {
+          "text": "can ",
+          "start": 291.97,
+          "end": 292.09,
+          "duration": 0.11999512,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "do ",
+          "start": 292.09,
+          "end": 292.21,
+          "duration": 0.11999512,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "the ",
+          "start": 292.21,
+          "end": 292.3,
+          "duration": 0.08999634,
+          "metadata": {}
+        },
+        {
+          "text": "first ",
+          "start": 292.3,
+          "end": 292.78,
+          "duration": 0.480011,
+          "metadata": {}
+        },
+        {
+          "text": "hour ",
+          "start": 292.99,
+          "end": 293.31998,
+          "duration": 0.32998657,
+          "metadata": {}
+        },
+        {
+          "text": "car ",
+          "start": 293.32,
+          "end": 293.59,
+          "duration": 0.269989,
+          "metadata": {}
+        },
+        {
+          "text": "and ",
+          "start": 293.61,
+          "end": 293.71,
+          "duration": 0.1000061,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "then ",
+          "start": 293.71,
+          "end": 293.8,
+          "duration": 0.08999634,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "we ",
+          "start": 293.8,
+          "end": 293.88998,
+          "duration": 0.08999634,
+          "metadata": {}
+        },
+        {
+          "text": "can ",
+          "start": 293.89,
+          "end": 294.07,
+          "duration": 0.17999268,
+          "metadata": {}
+        },
+        {
+          "text": "do ",
+          "start": 294.07,
+          "end": 294.51,
+          "duration": 0.44000244,
+          "metadata": {}
+        },
+        {
+          "text": "even ",
+          "start": 294.67,
+          "end": 295.03,
+          "duration": 0.35998535,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "the ",
+          "start": 295.03,
+          "end": 295.21,
+          "duration": 0.17999268,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "second ",
+          "start": 295.24,
+          "end": 295.53998,
+          "duration": 0.2999878,
+          "metadata": {}
+        },
+        {
+          "text": "call ",
+          "start": 295.54,
+          "end": 295.78,
+          "duration": 0.23999023,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "30 ",
+          "start": 295.78,
+          "end": 296.05,
+          "duration": 0.269989,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "minutes ",
+          "start": 296.05,
+          "end": 296.25998,
+          "duration": 0.20999146,
+          "metadata": {}
+        },
+        {
+          "text": "30 ",
+          "start": 296.26,
+          "end": 296.47,
+          "duration": 0.20999146,
+          "metadata": {}
+        },
+        {
+          "text": "minutes ",
+          "start": 296.47,
+          "end": 296.77,
+          "duration": 0.2999878,
+          "metadata": {}
+        }
+      ],
+      "metadata": {},
+      "text": "and  i'm  going  to  give  you  the  strategies  i  don't  even  mind  we  don't  have  to  do  the  two  hour  call  upfront  i  can  do  the  first  hour  car  and  then  we  can  do  even  the  second  call  30  minutes  30  minutes",
+      "end": 296.77,
+      "start": 285.58,
+      "lastWord": {
+        "text": "minutes ",
+        "start": 296.47,
+        "end": 296.77,
+        "duration": 0.2999878,
+        "metadata": {}
+      }
+    },
+    {
+      "speaker": "spk1",
+      "question": false,
+      "words": [
+        {
+          "text": "because ",
+          "start": 297.22,
+          "end": 297.64,
+          "duration": 0.42001343,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "i ",
+          "start": 297.64,
+          "end": 297.7,
+          "duration": 0.05999756,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "want ",
+          "start": 297.7,
+          "end": 297.91,
+          "duration": 0.20999146,
+          "metadata": {}
+        },
+        {
+          "text": "to ",
+          "start": 297.91,
+          "end": 297.97,
+          "duration": 0.05999756,
+          "metadata": {}
+        },
+        {
+          "text": "make ",
+          "start": 297.97,
+          "end": 298.09,
+          "duration": 0.11999512,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "sure ",
+          "start": 298.09,
+          "end": 298.38,
+          "duration": 0.29000854,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "at ",
+          "start": 298.39,
+          "end": 298.58002,
+          "duration": 0.19000244,
+          "metadata": {}
+        },
+        {
+          "text": "the ",
+          "start": 298.59,
+          "end": 298.69,
+          "duration": 0.1000061,
+          "metadata": {}
+        },
+        {
+          "text": "time ",
+          "start": 298.69,
+          "end": 298.98,
+          "duration": 0.29000854,
+          "metadata": {}
+        },
+        {
+          "text": "is ",
+          "start": 298.99,
+          "end": 299.08,
+          "duration": 0.08999634,
+          "metadata": {}
+        },
+        {
+          "text": "spent ",
+          "start": 299.08,
+          "end": 299.37997,
+          "duration": 0.2999878,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "together ",
+          "start": 299.37,
+          "end": 299.72,
+          "duration": 0.3500061,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "productive ",
+          "start": 299.8,
+          "end": 300.37,
+          "duration": 0.5700073,
+          "metadata": {}
+        },
+        {
+          "text": "that ",
+          "start": 300.55,
+          "end": 300.72998,
+          "duration": 0.17999268,
+          "metadata": {}
+        },
+        {
+          "text": "we ",
+          "start": 300.73,
+          "end": 300.87003,
+          "duration": 0.14001465,
+          "metadata": {}
+        },
+        {
+          "text": "are ",
+          "start": 300.91,
+          "end": 301,
+          "duration": 0.08999634,
+          "metadata": {}
+        },
+        {
+          "text": "wasting ",
+          "start": 301,
+          "end": 301.3,
+          "duration": 0.2999878,
+          "metadata": {}
+        },
+        {
+          "text": "time ",
+          "start": 301.3,
+          "end": 301.65997,
+          "duration": 0.35998535,
+          "metadata": {}
+        },
+        {
+          "text": "shooting ",
+          "start": 301.9,
+          "end": 302.29,
+          "duration": 0.39001465,
+          "metadata": {}
+        },
+        {
+          "text": "the ",
+          "start": 302.29,
+          "end": 302.38,
+          "duration": 0.08999634,
+          "metadata": {}
+        },
+        {
+          "text": "breeze ",
+          "start": 302.38,
+          "end": 302.68,
+          "duration": 0.2999878,
+          "metadata": {}
+        },
+        {
+          "text": "and ",
+          "start": 302.68,
+          "end": 302.77,
+          "duration": 0.08999634,
+          "metadata": {}
+        },
+        {
+          "text": "talking ",
+          "start": 302.77,
+          "end": 303.03998,
+          "duration": 0.269989,
+          "metadata": {}
+        },
+        {
+          "text": "about ",
+          "start": 303.04,
+          "end": 303.19,
+          "duration": 0.1499939,
+          "metadata": {}
+        },
+        {
+          "text": "the ",
+          "start": 303.19,
+          "end": 303.28,
+          "duration": 0.08999634,
+          "metadata": {}
+        },
+        {
+          "text": "fucking ",
+          "start": 303.28,
+          "end": 303.55,
+          "duration": 0.269989,
+          "metadata": {}
+        },
+        {
+          "text": "weather ",
+          "start": 303.55,
+          "end": 303.84998,
+          "duration": 0.2999878,
+          "metadata": {}
+        },
+        {
+          "text": "right ",
+          "start": 303.85,
+          "end": 304.09,
+          "duration": 0.23999023,
+          "metadata": {}
+        }
+      ],
+      "metadata": {},
+      "text": "because  i  want  to  make  sure  at  the  time  is  spent  together  productive  that  we  are  wasting  time  shooting  the  breeze  and  talking  about  the  fucking  weather  right",
+      "end": 304.09,
+      "start": 297.22,
+      "lastWord": {
+        "text": "right ",
+        "start": 303.85,
+        "end": 304.09,
+        "duration": 0.23999023,
+        "metadata": {}
+      }
+    },
+    {
+      "speaker": "spk1",
+      "question": false,
+      "words": [
+        {
+          "text": "okay ",
+          "start": 306.52,
+          "end": 307.03,
+          "duration": 0.51000977,
+          "metadata": {}
+        }
+      ],
+      "metadata": {},
+      "text": "okay",
+      "end": 307.03,
+      "start": 306.52,
+      "lastWord": {
+        "text": "okay ",
+        "start": 306.52,
+        "end": 307.03,
+        "duration": 0.51000977,
+        "metadata": {}
+      }
+    },
+    {
+      "speaker": "spk1",
+      "question": true,
+      "words": [
+        {
+          "text": "so ",
+          "start": 307.78,
+          "end": 308.17,
+          "duration": 0.39001465,
+          "metadata": {}
+        },
+        {
+          "text": "so ",
+          "start": 308.44,
+          "end": 308.62,
+          "duration": 0.17999268,
+          "metadata": {}
+        },
+        {
+          "text": "what ",
+          "start": 308.62,
+          "end": 308.74,
+          "duration": 0.11999512,
+          "metadata": {}
+        },
+        {
+          "text": "do ",
+          "start": 308.74,
+          "end": 308.8,
+          "duration": 0.05999756,
+          "metadata": {}
+        },
+        {
+          "text": "you ",
+          "start": 308.8,
+          "end": 308.86,
+          "duration": 0.05999756,
+          "metadata": {}
+        },
+        {
+          "text": "want ",
+          "start": 308.86,
+          "end": 308.97998,
+          "duration": 0.11999512,
+          "metadata": {}
+        },
+        {
+          "text": "to ",
+          "start": 309,
+          "end": 309.06,
+          "duration": 0.05999756,
+          "metadata": {}
+        },
+        {
+          "text": "do ",
+          "start": 309.06,
+          "end": 309.18,
+          "duration": 0.11999512,
+          "metadata": {}
+        }
+      ],
+      "metadata": {},
+      "text": "so  so  what  do  you  want  to  do",
+      "end": 309.18,
+      "start": 307.78,
+      "lastWord": {
+        "text": "do ",
+        "start": 309.06,
+        "end": 309.18,
+        "duration": 0.11999512,
+        "metadata": {}
+      }
+    },
+    {
+      "speaker": "spk2",
+      "question": false,
+      "words": [
+        {
+          "text": "how ",
+          "start": 313.48,
+          "end": 313.72,
+          "duration": 0.23999023,
+          "metadata": {}
+        },
+        {
+          "text": "do ",
+          "start": 313.72,
+          "end": 313.9,
+          "duration": 0.17999268,
+          "metadata": {}
+        },
+        {
+          "text": "i ",
+          "start": 314.04,
+          "end": 314.53,
+          "duration": 0.48999023,
+          "metadata": {}
+        }
+      ],
+      "metadata": {},
+      "text": "how  do  i",
+      "end": 314.53,
+      "start": 313.48,
+      "lastWord": {
+        "text": "i ",
+        "start": 314.04,
+        "end": 314.53,
+        "duration": 0.48999023,
+        "metadata": {}
+      }
+    },
+    {
+      "speaker": "spk1",
+      "question": false,
+      "words": [
+        {
+          "text": "we ",
+          "start": 316.25,
+          "end": 316.43,
+          "duration": 0.17999268,
+          "metadata": {}
+        },
+        {
+          "text": "can ",
+          "start": 316.43,
+          "end": 316.63998,
+          "duration": 0.20999146,
+          "metadata": {}
+        },
+        {
+          "text": "do ",
+          "start": 316.64,
+          "end": 317.15002,
+          "duration": 0.51000977,
+          "metadata": {}
+        },
+        {
+          "text": "we ",
+          "start": 317.18,
+          "end": 317.3,
+          "duration": 0.11999512,
+          "metadata": {}
+        },
+        {
+          "text": "can ",
+          "start": 317.3,
+          "end": 317.44998,
+          "duration": 0.1499939,
+          "metadata": {}
+        },
+        {
+          "text": "do ",
+          "start": 317.45,
+          "end": 317.63,
+          "duration": 0.17999268,
+          "metadata": {}
+        },
+        {
+          "text": "we ",
+          "start": 317.63,
+          "end": 317.75,
+          "duration": 0.11999512,
+          "metadata": {}
+        },
+        {
+          "text": "can ",
+          "start": 317.75,
+          "end": 317.9,
+          "duration": 0.1499939,
+          "metadata": {}
+        },
+        {
+          "text": "take ",
+          "start": 317.9,
+          "end": 318.05,
+          "duration": 0.1499939,
+          "metadata": {}
+        },
+        {
+          "text": "credit ",
+          "start": 318.05,
+          "end": 318.31998,
+          "duration": 0.269989,
+          "metadata": {}
+        },
+        {
+          "text": "card ",
+          "start": 318.32,
+          "end": 318.58002,
+          "duration": 0.26000977,
+          "metadata": {}
+        },
+        {
+          "text": "we ",
+          "start": 318.6,
+          "end": 318.71,
+          "duration": 0.10998535,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "can ",
+          "start": 318.71,
+          "end": 318.83,
+          "duration": 0.11999512,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "do ",
+          "start": 318.83,
+          "end": 318.97998,
+          "duration": 0.1499939,
+          "metadata": {}
+        },
+        {
+          "text": "pay ",
+          "start": 318.98,
+          "end": 319.19,
+          "duration": 0.20999146,
+          "metadata": {}
+        },
+        {
+          "text": "Pal ",
+          "start": 319.19,
+          "end": 319.73,
+          "duration": 0.54000854,
+          "metadata": {}
+        },
+        {
+          "text": "we ",
+          "start": 319.82,
+          "end": 319.94,
+          "duration": 0.11999512,
+          "metadata": {}
+        },
+        {
+          "text": "can ",
+          "start": 319.94,
+          "end": 320.06,
+          "duration": 0.11999512,
+          "metadata": {}
+        },
+        {
+          "text": "do ",
+          "start": 320.06,
+          "end": 320.18,
+          "duration": 0.11999512,
+          "metadata": {}
+        },
+        {
+          "text": "wire ",
+          "start": 320.18,
+          "end": 320.4,
+          "duration": 0.22000122,
+          "metadata": {}
+        },
+        {
+          "text": "transfer ",
+          "start": 320.44,
+          "end": 321.11002,
+          "duration": 0.6700134,
+          "metadata": {}
+        }
+      ],
+      "metadata": {},
+      "text": "we  can  do  we  can  do  we  can  take  credit  card  we  can  do  pay  Pal  we  can  do  wire  transfer",
+      "end": 321.11002,
+      "start": 316.25,
+      "lastWord": {
+        "text": "transfer ",
+        "start": 320.44,
+        "end": 321.11002,
+        "duration": 0.6700134,
+        "metadata": {}
+      }
+    },
+    {
+      "speaker": "spk2",
+      "question": false,
+      "words": [
+        {
+          "text": "like ",
+          "start": 324.48,
+          "end": 324.7,
+          "duration": 0.22000122,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "this ",
+          "start": 324.7,
+          "end": 324.88,
+          "duration": 0.17999268,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "is ",
+          "start": 324.88,
+          "end": 325.05002,
+          "duration": 0.17001343,
+          "metadata": {}
+        },
+        {
+          "text": "all ",
+          "start": 325.06,
+          "end": 325.36,
+          "duration": 0.2999878,
+          "metadata": {}
+        },
+        {
+          "text": "my ",
+          "start": 326.02,
+          "end": 326.16998,
+          "duration": 0.1499939,
+          "metadata": {}
+        },
+        {
+          "text": "credit ",
+          "start": 326.17,
+          "end": 326.47,
+          "duration": 0.2999878,
+          "metadata": {}
+        },
+        {
+          "text": "card ",
+          "start": 326.47,
+          "end": 326.69,
+          "duration": 0.22000122,
+          "metadata": {}
+        },
+        {
+          "text": "but ",
+          "start": 327.31,
+          "end": 327.55,
+          "duration": 0.23999023,
+          "metadata": {}
+        },
+        {
+          "text": "i ",
+          "start": 327.58,
+          "end": 327.72998,
+          "duration": 0.1499939,
+          "metadata": {}
+        },
+        {
+          "text": "give ",
+          "start": 327.73,
+          "end": 327.91,
+          "duration": 0.17999268,
+          "metadata": {}
+        },
+        {
+          "text": "you ",
+          "start": 327.91,
+          "end": 328.05002,
+          "duration": 0.14001465,
+          "metadata": {}
+        },
+        {
+          "text": "paid ",
+          "start": 328.06,
+          "end": 328.36,
+          "duration": 0.2999878,
+          "metadata": {}
+        },
+        {
+          "text": "or ",
+          "start": 328.41,
+          "end": 328.62,
+          "duration": 0.20999146,
+          "metadata": {}
+        },
+        {
+          "text": "something ",
+          "start": 328.87,
+          "end": 329.16998,
+          "duration": 0.2999878,
+          "metadata": {}
+        },
+        {
+          "text": "okay ",
+          "start": 329.81,
+          "end": 330.32,
+          "duration": 0.51000977,
+          "metadata": {}
+        }
+      ],
+      "metadata": {},
+      "text": "like  this  is  all  my  credit  card  but  i  give  you  paid  or  something  okay",
+      "end": 330.32,
+      "start": 324.48,
+      "lastWord": {
+        "text": "okay ",
+        "start": 329.81,
+        "end": 330.32,
+        "duration": 0.51000977,
+        "metadata": {}
+      }
+    },
+    {
+      "speaker": "spk1",
+      "question": false,
+      "words": [
+        {
+          "text": "so ",
+          "start": 330.35,
+          "end": 330.80002,
+          "duration": 0.4500122,
+          "metadata": {}
+        },
+        {
+          "text": "here's ",
+          "start": 330.86,
+          "end": 331.02,
+          "duration": 0.16000366,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "what ",
+          "start": 331.02,
+          "end": 331.16,
+          "duration": 0.14001465,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "i'll ",
+          "start": 331.16,
+          "end": 331.28,
+          "duration": 0.11999512,
+          "metadata": {}
+        },
+        {
+          "text": "do ",
+          "start": 331.29,
+          "end": 331.43002,
+          "duration": 0.14001465,
+          "metadata": {}
+        },
+        {
+          "text": "i'll ",
+          "start": 331.43,
+          "end": 331.55,
+          "duration": 0.11999512,
+          "metadata": {}
+        },
+        {
+          "text": "get ",
+          "start": 331.55,
+          "end": 331.69998,
+          "duration": 0.1499939,
+          "metadata": {}
+        },
+        {
+          "text": "my ",
+          "start": 331.7,
+          "end": 331.82,
+          "duration": 0.11999512,
+          "metadata": {}
+        },
+        {
+          "text": "system ",
+          "start": 331.82,
+          "end": 332.18,
+          "duration": 0.35998535,
+          "metadata": {}
+        },
+        {
+          "text": "to ",
+          "start": 332.18,
+          "end": 332.6,
+          "duration": 0.42001343,
+          "metadata": {}
+        },
+        {
+          "text": "to ",
+          "start": 332.87,
+          "end": 333.05,
+          "duration": 0.17999268,
+          "metadata": {}
+        },
+        {
+          "text": "send ",
+          "start": 333.05,
+          "end": 333.28998,
+          "duration": 0.23999023,
+          "metadata": {}
+        },
+        {
+          "text": "you ",
+          "start": 333.29,
+          "end": 333.35,
+          "duration": 0.05999756,
+          "metadata": {}
+        },
+        {
+          "text": "an ",
+          "start": 333.35,
+          "end": 333.44,
+          "duration": 0.08999634,
+          "metadata": {}
+        },
+        {
+          "text": "email ",
+          "start": 333.44,
+          "end": 333.83002,
+          "duration": 0.39001465,
+          "metadata": {}
+        },
+        {
+          "text": "with ",
+          "start": 333.83,
+          "end": 334.09998,
+          "duration": 0.269989,
+          "metadata": {}
+        },
+        {
+          "text": "the ",
+          "start": 334.1,
+          "end": 334.28,
+          "duration": 0.17999268,
+          "metadata": {}
+        },
+        {
+          "text": "simple ",
+          "start": 334.31,
+          "end": 334.91,
+          "duration": 0.6000061,
+          "metadata": {}
+        },
+        {
+          "text": "simple ",
+          "start": 334.94,
+          "end": 335.45,
+          "duration": 0.51000977,
+          "metadata": {}
+        },
+        {
+          "text": "agreement ",
+          "start": 335.45,
+          "end": 335.90002,
+          "duration": 0.4500122,
+          "metadata": {}
+        },
+        {
+          "text": "i ",
+          "start": 335.9,
+          "end": 335.93,
+          "duration": 0.02999878,
+          "metadata": {}
+        },
+        {
+          "text": "don't ",
+          "start": 335.93,
+          "end": 336.11,
+          "duration": 0.17999268,
+          "metadata": {}
+        },
+        {
+          "text": "do ",
+          "start": 336.11,
+          "end": 336.22998,
+          "duration": 0.11999512,
+          "metadata": {}
+        },
+        {
+          "text": "long ",
+          "start": 336.23,
+          "end": 336.62003,
+          "duration": 0.39001465,
+          "metadata": {}
+        },
+        {
+          "text": "10 ",
+          "start": 336.71,
+          "end": 337.00998,
+          "duration": 0.2999878,
+          "metadata": {}
+        },
+        {
+          "text": "fucking ",
+          "start": 337.01,
+          "end": 337.25,
+          "duration": 0.23999023,
+          "metadata": {}
+        },
+        {
+          "text": "page ",
+          "start": 337.25,
+          "end": 337.46,
+          "duration": 0.20999146,
+          "metadata": {}
+        },
+        {
+          "text": "contract ",
+          "start": 337.46,
+          "end": 337.94,
+          "duration": 0.480011,
+          "metadata": {}
+        },
+        {
+          "text": "very ",
+          "start": 337.94,
+          "end": 338.18,
+          "duration": 0.23999023,
+          "metadata": {}
+        },
+        {
+          "text": "short ",
+          "start": 338.18,
+          "end": 338.53998,
+          "duration": 0.35998535,
+          "metadata": {}
+        }
+      ],
+      "metadata": {},
+      "text": "so  here's  what  i'll  do  i'll  get  my  system  to  to  send  you  an  email  with  the  simple  simple  agreement  i  don't  do  long  10  fucking  page  contract  very  short",
+      "end": 338.53998,
+      "start": 330.35,
+      "lastWord": {
+        "text": "short ",
+        "start": 338.18,
+        "end": 338.53998,
+        "duration": 0.35998535,
+        "metadata": {}
+      }
+    },
+    {
+      "speaker": "spk1",
+      "question": false,
+      "words": [
+        {
+          "text": "you ",
+          "start": 339.46,
+          "end": 339.61,
+          "duration": 0.1499939,
+          "metadata": {}
+        },
+        {
+          "text": "can ",
+          "start": 339.61,
+          "end": 339.75998,
+          "duration": 0.1499939,
+          "metadata": {}
+        },
+        {
+          "text": "feel ",
+          "start": 339.76,
+          "end": 339.91,
+          "duration": 0.1499939,
+          "metadata": {}
+        },
+        {
+          "text": "that ",
+          "start": 339.91,
+          "end": 340.09,
+          "duration": 0.17999268,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "i ",
+          "start": 340.09,
+          "end": 340.15,
+          "duration": 0.05999756,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "will ",
+          "start": 340.15,
+          "end": 340.24,
+          "duration": 0.08999634,
+          "metadata": {}
+        },
+        {
+          "text": "get ",
+          "start": 340.24,
+          "end": 340.41998,
+          "duration": 0.17999268,
+          "metadata": {}
+        },
+        {
+          "text": "back ",
+          "start": 340.42,
+          "end": 340.66,
+          "duration": 0.23999023,
+          "metadata": {}
+        },
+        {
+          "text": "to ",
+          "start": 340.66,
+          "end": 340.78,
+          "duration": 0.11999512,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "me ",
+          "start": 340.78,
+          "end": 340.99,
+          "duration": 0.20999146,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "with ",
+          "start": 340.99,
+          "end": 341.19998,
+          "duration": 0.20999146,
+          "metadata": {}
+        },
+        {
+          "text": "that ",
+          "start": 341.2,
+          "end": 341.47,
+          "duration": 0.269989,
+          "metadata": {}
+        },
+        {
+          "text": "and ",
+          "start": 341.8,
+          "end": 341.97998,
+          "duration": 0.17999268,
+          "metadata": {}
+        },
+        {
+          "text": "then ",
+          "start": 341.98,
+          "end": 342.13,
+          "duration": 0.1499939,
+          "metadata": {}
+        },
+        {
+          "text": "also ",
+          "start": 342.13,
+          "end": 342.43,
+          "duration": 0.2999878,
+          "metadata": {}
+        },
+        {
+          "text": "i'll ",
+          "start": 342.43,
+          "end": 342.55,
+          "duration": 0.11999512,
+          "metadata": {}
+        },
+        {
+          "text": "have ",
+          "start": 342.55,
+          "end": 342.69998,
+          "duration": 0.1499939,
+          "metadata": {}
+        },
+        {
+          "text": "already ",
+          "start": 342.7,
+          "end": 342.91,
+          "duration": 0.20999146,
+          "metadata": {}
+        },
+        {
+          "text": "include ",
+          "start": 342.91,
+          "end": 343.33002,
+          "duration": 0.42001343,
+          "metadata": {}
+        },
+        {
+          "text": "a ",
+          "start": 343.37,
+          "end": 343.59,
+          "duration": 0.22000122,
+          "metadata": {}
+        },
+        {
+          "text": "pay ",
+          "start": 343.74,
+          "end": 343.9,
+          "duration": 0.16000366,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "Pal ",
+          "start": 343.9,
+          "end": 344.13998,
+          "duration": 0.23999023,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "link ",
+          "start": 344.14,
+          "end": 344.44,
+          "duration": 0.2999878,
+          "metadata": {}
+        },
+        {
+          "text": "with ",
+          "start": 344.59,
+          "end": 344.8,
+          "duration": 0.20999146,
+          "metadata": {}
+        },
+        {
+          "text": "five ",
+          "start": 344.8,
+          "end": 345.06998,
+          "duration": 0.269989,
+          "metadata": {}
+        },
+        {
+          "text": "thousand ",
+          "start": 345.07,
+          "end": 345.4,
+          "duration": 0.32998657,
+          "metadata": {}
+        },
+        {
+          "text": "down ",
+          "start": 345.4,
+          "end": 345.69,
+          "duration": 0.29000854,
+          "metadata": {}
+        },
+        {
+          "text": "and ",
+          "start": 345.69,
+          "end": 345.82,
+          "duration": 0.13000488,
+          "metadata": {}
+        },
+        {
+          "text": "five ",
+          "start": 345.82,
+          "end": 346.06,
+          "duration": 0.23999023,
+          "metadata": {}
+        },
+        {
+          "text": "dollars ",
+          "start": 346.06,
+          "end": 346.36,
+          "duration": 0.2999878,
+          "metadata": {}
+        },
+        {
+          "text": "in ",
+          "start": 346.44,
+          "end": 346.56,
+          "duration": 0.11999512,
+          "metadata": {}
+        },
+        {
+          "text": "30 ",
+          "start": 346.57,
+          "end": 346.84,
+          "duration": 0.269989,
+          "metadata": {}
+        },
+        {
+          "text": "days ",
+          "start": 346.84,
+          "end": 347.11,
+          "duration": 0.269989,
+          "metadata": {}
+        },
+        {
+          "text": "ago ",
+          "start": 347.29,
+          "end": 347.68002,
+          "duration": 0.39001465,
+          "metadata": {}
+        }
+      ],
+      "metadata": {},
+      "text": "you  can  feel  that  i  will  get  back  to  me  with  that  and  then  also  i'll  have  already  include  a  pay  Pal  link  with  five  thousand  down  and  five  dollars  in  30  days  ago",
+      "end": 347.68002,
+      "start": 339.46,
+      "lastWord": {
+        "text": "ago ",
+        "start": 347.29,
+        "end": 347.68002,
+        "duration": 0.39001465,
+        "metadata": {}
+      }
+    },
+    {
+      "speaker": "spk1",
+      "question": false,
+      "words": [
+        {
+          "text": "Kevin ",
+          "start": 350.56,
+          "end": 351.01,
+          "duration": 0.4500122,
+          "metadata": {}
+        },
+        {
+          "text": "congratulations ",
+          "start": 351.01,
+          "end": 352,
+          "duration": 0.98999023,
+          "metadata": {}
+        }
+      ],
+      "metadata": {},
+      "text": "Kevin  congratulations",
+      "end": 352,
+      "start": 350.56,
+      "lastWord": {
+        "text": "congratulations ",
+        "start": 351.01,
+        "end": 352,
+        "duration": 0.98999023,
+        "metadata": {}
+      }
+    },
+    {
+      "speaker": "spk1",
+      "question": false,
+      "words": [
+        {
+          "text": "a ",
+          "start": 352.27,
+          "end": 352.50998,
+          "duration": 0.23999023,
+          "metadata": {}
+        },
+        {
+          "text": "look ",
+          "start": 352.51,
+          "end": 352.66,
+          "duration": 0.1499939,
+          "metadata": {}
+        },
+        {
+          "text": "forward ",
+          "start": 352.66,
+          "end": 352.81,
+          "duration": 0.1499939,
+          "metadata": {}
+        },
+        {
+          "text": "working ",
+          "start": 352.81,
+          "end": 353.08,
+          "duration": 0.269989,
+          "metadata": {}
+        },
+        {
+          "text": "with ",
+          "start": 353.08,
+          "end": 353.19998,
+          "duration": 0.11999512,
+          "metadata": {}
+        },
+        {
+          "text": "you ",
+          "start": 353.2,
+          "end": 353.38,
+          "duration": 0.17999268,
+          "metadata": {}
+        }
+      ],
+      "metadata": { "sentiment": 1 },
+      "text": "a  look  for  working  with  you",
+      "end": 353.38,
+      "start": 352.27,
+      "lastWord": {
+        "text": "you ",
+        "start": 353.2,
+        "end": 353.38,
+        "duration": 0.17999268,
+        "metadata": {}
+      }
+    },
+    {
+      "speaker": "spk1",
+      "question": false,
+      "words": [
+        {
+          "text": "and ",
+          "start": 354.76,
+          "end": 354.99002,
+          "duration": 0.23001099,
+          "metadata": {}
+        },
+        {
+          "text": "relax ",
+          "start": 354.99,
+          "end": 355.36,
+          "duration": 0.36999512,
+          "metadata": {}
+        },
+        {
+          "text": "take ",
+          "start": 355.36,
+          "end": 355.50998,
+          "duration": 0.1499939,
+          "metadata": {}
+        },
+        {
+          "text": "a ",
+          "start": 355.51,
+          "end": 355.57,
+          "duration": 0.05999756,
+          "metadata": {}
+        },
+        {
+          "text": "you ",
+          "start": 355.57,
+          "end": 355.66,
+          "duration": 0.08999634,
+          "metadata": {}
+        },
+        {
+          "text": "breath ",
+          "start": 355.66,
+          "end": 356.23,
+          "duration": 0.5700073,
+          "metadata": {}
+        }
+      ],
+      "metadata": {},
+      "text": "and  relax  take  a  you  breath",
+      "end": 356.23,
+      "start": 354.76,
+      "lastWord": {
+        "text": "breath ",
+        "start": 355.66,
+        "end": 356.23,
+        "duration": 0.5700073,
+        "metadata": {}
+      }
+    },
+    {
+      "speaker": "spk1",
+      "question": false,
+      "words": [
+        {
+          "text": "we ",
+          "start": 358.96,
+          "end": 359.19998,
+          "duration": 0.23999023,
+          "metadata": {}
+        },
+        {
+          "text": "are ",
+          "start": 359.29,
+          "end": 359.32,
+          "duration": 0.02999878,
+          "metadata": {}
+        },
+        {
+          "text": "going ",
+          "start": 359.32,
+          "end": 359.44,
+          "duration": 0.11999512,
+          "metadata": {}
+        },
+        {
+          "text": "to ",
+          "start": 359.44,
+          "end": 359.5,
+          "duration": 0.05999756,
+          "metadata": {}
+        },
+        {
+          "text": "take ",
+          "start": 359.5,
+          "end": 359.68,
+          "duration": 0.17999268,
+          "metadata": {}
+        },
+        {
+          "text": "that ",
+          "start": 359.68,
+          "end": 359.77,
+          "duration": 0.08999634,
+          "metadata": {}
+        },
+        {
+          "text": "this ",
+          "start": 359.77,
+          "end": 359.94998,
+          "duration": 0.17999268,
+          "metadata": {}
+        },
+        {
+          "text": "is ",
+          "start": 359.95,
+          "end": 360.01,
+          "duration": 0.05999756,
+          "metadata": {}
+        },
+        {
+          "text": "on ",
+          "start": 360.01,
+          "end": 360.12,
+          "duration": 0.10998535,
+          "metadata": {}
+        },
+        {
+          "text": "the next level ",
+          "start": 360.12,
+          "end": 360.19998,
+          "duration": 0.07998657,
+          "metadata": {}
+        }
+      ],
+      "metadata": { "sentiment": 1 },
+      "text": "we  are  going  to  take  that  this  is  on  the next level",
+      "end": 360.19998,
+      "start": 358.96,
+      "lastWord": {
+        "text": "the next level ",
+        "start": 360.12,
+        "end": 360.19998,
+        "duration": 0.07998657,
+        "metadata": {}
+      }
+    },
+    {
+      "speaker": "spk1",
+      "question": false,
+      "words": [
+        {
+          "text": "but ",
+          "start": 361.18,
+          "end": 361.44,
+          "duration": 0.26000977,
+          "metadata": {}
+        },
+        {
+          "text": "as ",
+          "start": 361.44,
+          "end": 361.54,
+          "duration": 0.1000061,
+          "metadata": {}
+        },
+        {
+          "text": "long ",
+          "start": 361.54,
+          "end": 361.75,
+          "duration": 0.20999146,
+          "metadata": {}
+        },
+        {
+          "text": "as ",
+          "start": 361.75,
+          "end": 361.87,
+          "duration": 0.11999512,
+          "metadata": {}
+        },
+        {
+          "text": "you're ",
+          "start": 361.87,
+          "end": 362.02,
+          "duration": 0.1499939,
+          "metadata": {}
+        },
+        {
+          "text": "coachable ",
+          "start": 362.02,
+          "end": 362.56998,
+          "duration": 0.5499878,
+          "metadata": {}
+        },
+        {
+          "text": "we ",
+          "start": 362.57,
+          "end": 362.68,
+          "duration": 0.10998535,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "going ",
+          "start": 362.67,
+          "end": 362.80002,
+          "duration": 0.13000488,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "to ",
+          "start": 362.8,
+          "end": 362.86,
+          "duration": 0.05999756,
+          "metadata": {}
+        },
+        {
+          "text": "do ",
+          "start": 362.86,
+          "end": 363.00998,
+          "duration": 0.1499939,
+          "metadata": {}
+        },
+        {
+          "text": "it ",
+          "start": 363.01,
+          "end": 363.13,
+          "duration": 0.11999512,
+          "metadata": {}
+        }
+      ],
+      "metadata": { "sentiment": -1 },
+      "text": "but  as  long  as  you're  coachable  we  going  to  do  it",
+      "end": 363.13,
+      "start": 361.18,
+      "lastWord": {
+        "text": "it ",
+        "start": 363.01,
+        "end": 363.13,
+        "duration": 0.11999512,
+        "metadata": {}
+      }
+    },
+    {
+      "speaker": "spk2",
+      "question": false,
+      "words": [
+        {
+          "text": "oh ",
+          "start": 363.64,
+          "end": 363.94,
+          "duration": 0.2999878,
+          "metadata": {}
+        },
+        {
+          "text": "i'm ",
+          "start": 363.94,
+          "end": 364.09,
+          "duration": 0.1499939,
+          "metadata": {}
+        },
+        {
+          "text": "coachable ",
+          "start": 364.09,
+          "end": 364.37,
+          "duration": 0.27999878,
+          "metadata": {}
+        },
+        {
+          "text": "from ",
+          "start": 366.22,
+          "end": 366.31,
+          "duration": 0.08999634,
+          "metadata": {}
+        }
+      ],
+      "metadata": {},
+      "text": "oh  i'm  coachable  from",
+      "end": 366.31,
+      "start": 363.64,
+      "lastWord": {
+        "text": "from ",
+        "start": 366.22,
+        "end": 366.31,
+        "duration": 0.08999634,
+        "metadata": {}
+      }
+    },
+    {
+      "speaker": "spk1",
+      "question": false,
+      "words": [
+        {
+          "text": "you ",
+          "start": 366.76,
+          "end": 367.09,
+          "duration": 0.32998657,
+          "metadata": {}
+        },
+        {
+          "text": "got ",
+          "start": 367.12,
+          "end": 367.36,
+          "duration": 0.23999023,
+          "metadata": {}
+        },
+        {
+          "text": "look ",
+          "start": 368.1,
+          "end": 368.26,
+          "duration": 0.16000366,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "for ",
+          "start": 368.26,
+          "end": 368.35,
+          "duration": 0.08999634,
+          "metadata": {
+            "overtalk": "true"
+          }
+        },
+        {
+          "text": "the ",
+          "start": 368.35,
+          "end": 368.44,
+          "duration": 0.08999634,
+          "metadata": {}
+        },
+        {
+          "text": "email ",
+          "start": 368.45,
+          "end": 368.71002,
+          "duration": 0.26000977,
+          "metadata": {}
+        }
+      ],
+      "metadata": {},
+      "text": "you  got  look  for  the  email",
+      "end": 368.71002,
+      "start": 366.76,
+      "lastWord": {
+        "text": "email ",
+        "start": 368.45,
+        "end": 368.71002,
+        "duration": 0.26000977,
+        "metadata": {}
+      }
+    },
+    {
+      "speaker": "spk2",
+      "question": false,
+      "words": [
+        {
+          "text": "yeah ",
+          "start": 370.02,
+          "end": 370.38998,
+          "duration": 0.36999512,
+          "metadata": {}
+        }
+      ],
+      "metadata": {},
+      "text": "yeah",
+      "end": 370.38998,
+      "start": 370.02,
+      "lastWord": {
+        "text": "yeah ",
+        "start": 370.02,
+        "end": 370.38998,
+        "duration": 0.36999512,
+        "metadata": {}
+      }
+    },
+    {
+      "speaker": "spk1",
+      "question": false,
+      "words": [
+        {
+          "text": "okay ",
+          "start": 371.42,
+          "end": 371.90002,
+          "duration": 0.480011,
+          "metadata": {}
+        },
+        {
+          "text": "so ",
+          "start": 371.93,
+          "end": 372.06,
+          "duration": 0.13000488,
+          "metadata": {}
+        },
+        {
+          "text": "i ",
+          "start": 372.06,
+          "end": 372.11,
+          "duration": 0.049987793,
+          "metadata": {}
+        },
+        {
+          "text": "can ",
+          "start": 372.15,
+          "end": 372.32,
+          "duration": 0.17001343,
+          "metadata": {}
+        },
+        {
+          "text": "have ",
+          "start": 372.36,
+          "end": 372.46997,
+          "duration": 0.10998535,
+          "metadata": {}
+        },
+        {
+          "text": "a ",
+          "start": 372.47,
+          "end": 372.5,
+          "duration": 0.02999878,
+          "metadata": {}
+        },
+        {
+          "text": "good ",
+          "start": 372.5,
+          "end": 372.65,
+          "duration": 0.1499939,
+          "metadata": {}
+        },
+        {
+          "text": "day ",
+          "start": 372.65,
+          "end": 372.86,
+          "duration": 0.20999146,
+          "metadata": {}
+        }
+      ],
+      "metadata": {},
+      "text": "okay  so  i  can  have  a  good  day",
+      "end": 372.86,
+      "start": 371.42,
+      "lastWord": {
+        "text": "day ",
+        "start": 372.65,
+        "end": 372.86,
+        "duration": 0.20999146,
+        "metadata": {}
+      }
+    },
+    {
+      "speaker": "spk1",
+      "question": false,
+      "words": [
+        {
+          "text": "Kay ",
+          "start": 373.9,
+          "end": 374.34,
+          "duration": 0.44000244,
+          "metadata": {}
+        },
+        {
+          "text": "Dubai ",
+          "start": 374.41,
+          "end": 374.71,
+          "duration": 0.2999878,
+          "metadata": {}
+        }
+      ],
+      "metadata": {},
+      "text": "Kay  Dubai",
+      "end": 374.71,
+      "start": 373.9,
+      "lastWord": {
+        "text": "Dubai ",
+        "start": 374.41,
+        "end": 374.71,
+        "duration": 0.2999878,
+        "metadata": {}
+      }
+    }
+  ],
+  "metadata": {
+    "talk_speed": "3.66",
+    "silence_ratio": "0.05",
+    "word_count": "825",
+    "total_duration": "374.08",
+    "keywords": "think two hours be sufficient enough,no no no wondering because,local client how much do,some strategies on on how,okay how many clients do,bring on more people your,re saying five thousand maybe,also be package your service,on that would really help,spent together productive that",
+    "total_silence": "19.55",
+    "num_speakers": "2",
+    "overtalk_duration": "0.00%"
+  },
+  "id": "5d4bf04e8593c80010618d97"
+}
