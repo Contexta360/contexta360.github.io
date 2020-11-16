@@ -2,32 +2,30 @@
  * AngularJS Material Design
  * https://github.com/angular/material
  * @license MIT
- * v1.1.24
+ * v1.2.1
  */
 
 /*!
  * Core v1.1.4 (https://contexta360.com/)
  * Copyright (c) 2020 Contexta B.V.
- * @license ISC (Last change on: 13/11/2020 14:45:13)
+ * @license ISC (Last change on: 16/11/2020 18:29:11)
  * 
  * Frontend developed by kuus <kunderikuus@gmail.com> (https://kuus.github.io)
  */
 
 /*!
- * wavesurfer.js 3.2.0 (2019-10-25)
+ * wavesurfer.js 4.1.0 (2020-09-18)
  * https://github.com/katspaugh/wavesurfer.js
  * @license BSD-3-Clause
  */
 
-/*! ./ajax */
+/*! ./clamp */
 
 /*! ./drawer */
 
 /*! ./drawer.canvasentry */
 
 /*! ./drawer.multicanvas */
-
-/*! ./extend */
 
 /*! ./fetch */
 
@@ -90,9 +88,9 @@
   !*** ./src/peakcache.js ***!
   \**************************/
 
-/*!**************************!*\
-  !*** ./src/util/ajax.js ***!
-  \**************************/
+/*!***************************!*\
+  !*** ./src/util/clamp.js ***!
+  \***************************/
 
 /*!***************************!*\
   !*** ./src/util/fetch.js ***!
@@ -113,10 +111,6 @@
 /*!***************************!*\
   !*** ./src/wavesurfer.js ***!
   \***************************/
-
-/*!****************************!*\
-  !*** ./src/util/extend.js ***!
-  \****************************/
 
 /*!****************************!*\
   !*** ./src/util/get-id.js ***!
@@ -157,6 +151,12 @@
 /**
  * @license AngularJS v1.8.0
  * (c) 2010-2020 Google, Inc. http://angularjs.org
+ * License: MIT
+ */
+
+/**
+ * @license AngularJS v1.8.2
+ * (c) 2010-2020 Google LLC. http://angularjs.org
  * License: MIT
  */
 
