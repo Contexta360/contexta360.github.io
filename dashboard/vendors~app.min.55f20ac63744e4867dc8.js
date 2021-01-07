@@ -1,8 +1,8 @@
 /*! For license information please see vendors~app.min.55f20ac63744e4867dc8.js.LICENSE.txt */
 /*!
  * Dashboard v4.10.0 (https://contexta360.com/)
- * Copyright (c) 2017-2020 Contexta B.V.
- * @license ISC (Last change on: 04/12/2020 10:03:53)
+ * Copyright (c) 2017-2021 Contexta B.V.
+ * @license ISC (Last change on: 07/01/2021 12:52:18)
  * 
  * Frontend developed by kuus <kunderikuus@gmail.com> (https://kuus.github.io)
  */
