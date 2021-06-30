@@ -8,16 +8,18 @@
 /*!
  * Core v1.2.9 (https://contexta360.com/)
  * Copyright (c) 2020-2021 Contexta B.V.
- * @license ISC (Last change on: 12/06/2021 07:50:42)
+ * @license ISC (Last change on: 30/06/2021 17:17:52)
  *
  * Frontend developed by kuus <kunderikuus@gmail.com> (https://kuus.github.io)
  */
 
 /*!
- * wavesurfer.js 4.1.0 (2020-09-18)
- * https://github.com/katspaugh/wavesurfer.js
+ * wavesurfer.js 5.1.0 (2021-06-20)
+ * https://wavesurfer-js.org
  * @license BSD-3-Clause
  */
+
+/*! ./absMax */
 
 /*! ./clamp */
 
@@ -43,6 +45,8 @@
 
 /*! ./observer */
 
+/*! ./orientation */
+
 /*! ./peakcache */
 
 /*! ./prevent-click */
@@ -65,8 +69,6 @@
  2019-02-23 */
 
 /*! debounce */
-
-/*! no static exports found */
 
 /*!***********************!*\
   !*** ./src/drawer.js ***!
@@ -113,6 +115,10 @@
   \***************************/
 
 /*!****************************!*\
+  !*** ./src/util/absMax.js ***!
+  \****************************/
+
+/*!****************************!*\
   !*** ./src/util/get-id.js ***!
   \****************************/
 
@@ -123,6 +129,10 @@
 /*!******************************!*\
   !*** ./src/util/observer.js ***!
   \******************************/
+
+/*!*********************************!*\
+  !*** ./src/util/orientation.js ***!
+  \*********************************/
 
 /*!***********************************!*\
   !*** ./src/drawer.canvasentry.js ***!
@@ -147,12 +157,6 @@
 /*!*********************************************!*\
   !*** ./src/util/request-animation-frame.js ***!
   \*********************************************/
-
-/**
- * @license AngularJS v1.8.0
- * (c) 2010-2020 Google, Inc. http://angularjs.org
- * License: MIT
- */
 
 /**
  * @license AngularJS v1.8.2
