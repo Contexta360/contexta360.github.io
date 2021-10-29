@@ -1,8 +1,8 @@
-/*! For license information please see 357.min.d814fc04ce0c37d2c2e1.js.LICENSE.txt */
+/*! For license information please see 357.min.056986c4155c5d91c58e.js.LICENSE.txt */
 /*!
- * Core v1.3.0-alpha (https://contexta360.com/)
+ * Core v2.0.0 (https://contexta360.com/)
  * Copyright (c) 2020-2021 Contexta B.V.
- * @license ISC (Last change on: 28/10/2021 10:45:25)
+ * @license ISC (Last change on: 29/10/2021 10:13:35)
  *
  * Frontend developed by kuus <kunderikuus@gmail.com> (https://kuus.github.io)
  */
