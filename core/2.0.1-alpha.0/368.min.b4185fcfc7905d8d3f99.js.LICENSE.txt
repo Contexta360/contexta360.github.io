@@ -1,0 +1,9 @@
+/*!
+ * Core v2.0.1-alpha.0 (https://contexta360.com/)
+ * Copyright (c) 2020-2021 Contexta B.V.
+ * @license ISC (Last change on: 09/12/2021 10:06:52)
+ *
+ * Frontend developed by kuus <kunderikuus@gmail.com> (https://kuus.github.io)
+ */
+
+/*! @license DOMPurify 2.3.1 | (c) Cure53 and other contributors | Released under the Apache license 2.0 and Mozilla Public License 2.0 | github.com/cure53/DOMPurify/blob/2.3.1/LICENSE */
