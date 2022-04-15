@@ -1,0 +1,1 @@
+import{B as r}from"./index.e22dcf66.js";import{j as o,F as t,a as n}from"./renderer/_default.page.client.tsx.7d411a3f.js";function e(){return o(t,{children:["SSR works",n(r,{children:"button from @c360/ui"})]})}export{e as Page};
