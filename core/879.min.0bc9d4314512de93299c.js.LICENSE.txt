@@ -1,7 +1,0 @@
-/*!
- * @c360/frontend v0.0.1 (https://contexta360.com)
- * Copyright (c) 2020-2022 Contexta B.V.
- * @license ISC (Last change on: 10/05/2022 20:26:26)
- *
- * Frontend developed by kuus <kunderikuus@gmail.com> (https://kuus.github.io)
- */
