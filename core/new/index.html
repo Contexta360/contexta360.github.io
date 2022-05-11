@@ -1,72 +1,120 @@
-<!doctype html><html lang="en"><head><link rel="icon" href="images/favicon.png"><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=11"><title>Contexta360</title><meta name="revised" content="Frontend version: 0.0.1 (Last change on: 10/05/2022 23:11:09)"><meta name="author" content="Contexta B.V."><meta name="description" content="0.0.1"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-capable" content="yes"><base href="/core/"><script id="config">window.ENVS = {
-        dashboard: {
-          name: "dashboard",
-          title: "Dashboard",
-          author: "Contexta360",
-          backend: "https://dashboard.contextaservices.com/",
+<!doctype html><html lang="en"><head><link rel="icon" href="images/favicon.png"><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=11"><title>Contexta360</title><meta name="revised" content="Frontend version: 0.0.1 (Last change on: 11/05/2022 10:24:29)"><meta name="author" content="Contexta B.V."><meta name="description" content="0.0.1"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-capable" content="yes"><base href="/core/">
+<script>
+var tabs = [{
+        slug: "matrix",
+        name: "Matrix",
+        icon: "arrow_back",
+        tabs: [{
+          slug: "ci",
+          name: "CI",
+          icon: "search"
+        }, {
+          slug: "wordcloud",
+          name: "Wordcloud",
+          icon: "cloud_download"
+        }]
+      }];
+      
+      var tabsAccount = [{
+        slug: "reports.list",
+        name: "My reports",
+        icon: "description"
+      },
+      {
+        slug: "usecase.list",
+        name: "Manage metrics",
+        icon: "build"
+      },
+      {
+        slug: "topics.list",
+        name: "Manage topics",
+        icon: "chat",
+      },
+      {
+        slug: "queries.list",
+        name: "Manage queries",
+        icon: "query_stats"
+      },
+      {
+        slug: "manage.wordcounts",
+        name: "Manage tracked words",
+        icon: "timeline",
+      },
+      {
+        slug: "manage.terms",
+        name: "Manage stop terms",
+        icon: "spellcheck",
+      },
+      {
+        slug: "manage.fields",
+        name: "Manage fields",
+        icon: "build",
+      },
+      {
+        slug: "manage.users",
+        name: "Manage users",
+        icon: "supervisor_account",
+      }];
+      
+      window.ENVS = {
+        "overstappen-test": {
+          name: "overstappen-test",
+          title: "Overstappen test",
+          backend: "https://www.contextaservices.com:14443/",
           redirectUnauth: "env.login",
           redirectAuth: "env.home",
-          endOfTime: new Date(),
-          tabs: [
-            {
-              slug: "matrix",
-              name: "Matrix",
-              icon: "arrow_back",
-              tabs: [
-                {
-                  slug: "ci",
-                  name: "CI",
-                  icon: "search",
-                },
-                {
-                  slug: "wordcloud",
-                  name: "Wordcloud",
-                  icon: "cloud_download",
-                },
-              ],
-            },
-          ],
-          tabsAccount: [
-            {
-              slug: "reports.list",
-              name: "My reports",
-              icon: "description"
-            },
-            {
-              slug: "usecase.list",
-              name: "Manage metrics",
-              icon: "build"
-            },
-            {
-              slug: "topics.list",
-              name: "Manage topics",
-              icon: "chat",
-            },
-            {
-              slug: "queries.list",
-              name: "Manage queries",
-              icon: "query_stats"
-            },
-            {
-              slug: "manage.wordcounts",
-              name: "Manage tracked words",
-              icon: "timeline",
-            },
-            {
-              slug: "manage.terms",
-              name: "Manage stop terms",
-              icon: "spellcheck",
-            },
-            {
-              slug: "manage.fields",
-              name: "Manage fields",
-              icon: "build",
-            },
-            {
-              slug: "manage.users",
-              name: "Manage users",
-              icon: "supervisor_account",
-            }
-          ]
+          tabs: tabs,
+          tabsAccount: tabsAccount,
+          endOfTime: new Date("2020-01-01")
         },
-      };</script><script id="head-script">__STORAGE_KEY__ = "@/core";</script><script type="module" crossorigin src="new/assets/index.d4b91c48.js"></script><link rel="stylesheet" href="new/assets/index.0e38e0fe.css"></head><body><main id="main"><div class="splash"><svg class="splash__spinner" width="50" height="50" viewBox="0 0 44 44"><circle class="splash__path" cx="22" cy="22" r="20" fill="none" stroke-width="4"></circle></svg><h1 class="splash__title">Contexta360</h1></div></main></body></html>
+        "taxi2airport": {
+          name: "taxi2airport",
+          title: "Taxi2Airport",
+          backend: "https://ctx-t2a.contextaservices.com:8443/",
+          redirectUnauth: "env.login",
+          redirectAuth: "env.home",
+          tabs: tabs,
+          tabsAccount: tabsAccount,
+          endOfTime: new Date("2019-10-31")
+        },
+        "release-testing": {
+          name: "release-testing",
+          title: "Release Testing",
+          backend: "https://release-testing.westeurope.cloudapp.azure.com:8443/",
+          redirectUnauth: "env.login",
+          redirectAuth: "env.home",
+          tabs: tabs,
+          tabsAccount: tabsAccount
+        },
+        "boost-test": {
+          name: "boost-test",
+          title: "Boost test",
+          backend: "https://boost-test.contextaservices.com/",
+          redirectUnauth: "env.login",
+          redirectAuth: "env.home",
+          tabs: tabs,
+          tabsAccount: tabsAccount,
+          endOfTime: new Date("2019-10-31")
+        },
+        "boost-test-2": {
+          name: "boost-test-2",
+          title: "Boost test 2",
+          backend: "https://boost-test2.contextaservices.com/",
+          redirectUnauth: "env.login",
+          redirectAuth: "env.home",
+          tabs: tabs,
+          tabsAccount: tabsAccount,
+          endOfTime: new Date("2019-10-31")
+        },
+        "demo4": {
+          name: "demo4",
+          title: "Demo 4",
+          backend: "https://ctx-demo4.contextaservices.com/",
+          redirectUnauth: "env.login",
+          redirectAuth: "env.home",
+          tabs: tabs,
+          tabsAccount: tabsAccount,
+          endOfTime: new Date("2019-10-31")
+        }
+      };</script>
+<script id="head-script">__STORAGE_KEY__ = "@/core";</script><script type="module" crossorigin src="new/assets/index.a199add2.js"></script><link rel="stylesheet" href="new/assets/index.0e38e0fe.css"></head><body><main id="main"><div class="splash"><svg class="splash__spinner" width="50" height="50" viewBox="0 0 44 44"><circle class="splash__path" cx="22" cy="22" r="20" fill="none" stroke-width="4"></circle></svg><h1 class="splash__title">Contexta360</h1></div></main></body></html>
